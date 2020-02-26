@@ -1,0 +1,3935 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>IRIS IEB exported quakes table</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+        <thead>
+        <tr class="even">
+        <th class="smaller header" title="Year">Year&nbsp;</th>
+        <th class="smaller header" title="Month">Month&nbsp;</th>
+        <th class="smaller header" title="Day">Day&nbsp;</th>
+        <th title="Time" class="header">Time UTC</th>
+        <th title="Magnitude" class="header">Mag&nbsp;</th>
+        <th title="Latitude" class="latlon header">Lat</th>
+        <th title="Longitude" class="latlon header">Lon</th>
+        <th title="Depth" class="header">Depth km</th>
+
+        <th title="Region" class="header">Region</th>
+        <th title="Explore ID" class="header">IRIS ID</th>
+        <th title="Timestamp" class="header">Timestamp</th>
+        </tr>
+        </thead>
+
+         <tbody id="theBody">
+
+<tr class="odd">
+<td class="day">2019</td>
+<td class="day">08</td>
+<td class="day">04</td>
+<td class="time">13:22:56</td>
+<td class="mag ">4.3</td>
+<td class="latlon">71.4671</td>
+<td class="latlon">138.4826</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/11091691">11091691</a></td>
+<td class="epoch">1564924976</td>
+</tr>
+<tr class="even">
+<td class="day">2019</td>
+<td class="day">05</td>
+<td class="day">21</td>
+<td class="time">03:45:12</td>
+<td class="mag ">4.8</td>
+<td class="latlon">75.5505</td>
+<td class="latlon">110.1839</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/11039572">11039572</a></td>
+<td class="epoch">1558410312</td>
+</tr>
+<tr class="odd">
+<td class="day">2019</td>
+<td class="day">05</td>
+<td class="day">13</td>
+<td class="time">00:43:33</td>
+<td class="mag ">5.4</td>
+<td class="latlon">79.4078</td>
+<td class="latlon">123.8974</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/11036585">11036585</a></td>
+<td class="epoch">1557708213</td>
+</tr>
+<tr class="even">
+<td class="day">2018</td>
+<td class="day">04</td>
+<td class="day">27</td>
+<td class="time">00:27:47</td>
+<td class="mag ">4.6</td>
+<td class="latlon">79.4010</td>
+<td class="latlon">123.8181</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/10765616">10765616</a></td>
+<td class="epoch">1524788867</td>
+</tr>
+<tr class="odd">
+<td class="day">2018</td>
+<td class="day">03</td>
+<td class="day">16</td>
+<td class="time">00:07:00</td>
+<td class="mag ">4.5</td>
+<td class="latlon">71.8984</td>
+<td class="latlon">100.3980</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/10686031">10686031</a></td>
+<td class="epoch">1521158820</td>
+</tr>
+<tr class="even">
+<td class="day">2018</td>
+<td class="day">03</td>
+<td class="day">03</td>
+<td class="time">00:55:17</td>
+<td class="mag ">4.1</td>
+<td class="latlon">72.1417</td>
+<td class="latlon">133.8758</td>
+<td class="mag "> 13.7</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/10718216">10718216</a></td>
+<td class="epoch">1520038517</td>
+</tr>
+<tr class="odd">
+<td class="day">2018</td>
+<td class="day">01</td>
+<td class="day">16</td>
+<td class="time">07:46:04</td>
+<td class="mag ">4.4</td>
+<td class="latlon">71.9898</td>
+<td class="latlon">127.7396</td>
+<td class="mag "> 15.3</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/10609912">10609912</a></td>
+<td class="epoch">1516088764</td>
+</tr>
+<tr class="even">
+<td class="day">2017</td>
+<td class="day">02</td>
+<td class="day">23</td>
+<td class="time">07:47:12</td>
+<td class="mag ">4.3</td>
+<td class="latlon">74.4295</td>
+<td class="latlon">114.0094</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/10003239">10003239</a></td>
+<td class="epoch">1487836032</td>
+</tr>
+<tr class="odd">
+<td class="day">2016</td>
+<td class="day">11</td>
+<td class="day">24</td>
+<td class="time">22:50:45</td>
+<td class="mag ">4.0</td>
+<td class="latlon">72.7583</td>
+<td class="latlon">124.6821</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/9946158">9946158</a></td>
+<td class="epoch">1480027845</td>
+</tr>
+<tr class="even">
+<td class="day">2016</td>
+<td class="day">08</td>
+<td class="day">19</td>
+<td class="time">09:59:26</td>
+<td class="mag ">4.7</td>
+<td class="latlon">71.8244</td>
+<td class="latlon">129.8185</td>
+<td class="mag "> 18.9</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/5194551">5194551</a></td>
+<td class="epoch">1471600766</td>
+</tr>
+<tr class="odd">
+<td class="day">2016</td>
+<td class="day">03</td>
+<td class="day">09</td>
+<td class="time">19:05:07</td>
+<td class="mag ">4.0</td>
+<td class="latlon">74.8268</td>
+<td class="latlon">134.5110</td>
+<td class="mag "> 14.5</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/5179105">5179105</a></td>
+<td class="epoch">1457550307</td>
+</tr>
+<tr class="even">
+<td class="day">2015</td>
+<td class="day">09</td>
+<td class="day">30</td>
+<td class="time">04:47:11</td>
+<td class="mag ">4.3</td>
+<td class="latlon">74.8326</td>
+<td class="latlon">134.0855</td>
+<td class="mag "> 15.3</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/5164617">5164617</a></td>
+<td class="epoch">1443588431</td>
+</tr>
+<tr class="odd">
+<td class="day">2015</td>
+<td class="day">09</td>
+<td class="day">10</td>
+<td class="time">12:41:46</td>
+<td class="mag ">4.6</td>
+<td class="latlon">70.2498</td>
+<td class="latlon">128.3024</td>
+<td class="mag "> 21.6</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/5162747">5162747</a></td>
+<td class="epoch">1441888906</td>
+</tr>
+<tr class="even">
+<td class="day">2015</td>
+<td class="day">08</td>
+<td class="day">09</td>
+<td class="time">10:11:01</td>
+<td class="mag ">4.5</td>
+<td class="latlon">76.8482</td>
+<td class="latlon">125.7679</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/10860216">10860216</a></td>
+<td class="epoch">1439115061</td>
+</tr>
+<tr class="odd">
+<td class="day">2015</td>
+<td class="day">05</td>
+<td class="day">26</td>
+<td class="time">04:41:22</td>
+<td class="mag ">4.2</td>
+<td class="latlon">75.1817</td>
+<td class="latlon">112.0058</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/5151978">5151978</a></td>
+<td class="epoch">1432615282</td>
+</tr>
+<tr class="even">
+<td class="day">2015</td>
+<td class="day">05</td>
+<td class="day">07</td>
+<td class="time">22:37:08</td>
+<td class="mag ">4.3</td>
+<td class="latlon">70.0176</td>
+<td class="latlon">138.1004</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/5114532">5114532</a></td>
+<td class="epoch">1431038228</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">12</td>
+<td class="day">24</td>
+<td class="time">12:45:44</td>
+<td class="mag ">3.5</td>
+<td class="latlon">77.1641</td>
+<td class="latlon">132.4143</td>
+<td class="mag ">  0.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/10514243">10514243</a></td>
+<td class="epoch">1419425144</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">12</td>
+<td class="day">12</td>
+<td class="time">07:42:55</td>
+<td class="mag ">4.4</td>
+<td class="latlon">74.4344</td>
+<td class="latlon">130.6165</td>
+<td class="mag ">  0.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4820460">4820460</a></td>
+<td class="epoch">1418370175</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">11</td>
+<td class="day">26</td>
+<td class="time">04:26:46</td>
+<td class="mag ">3.8</td>
+<td class="latlon">73.4822</td>
+<td class="latlon">130.7057</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/10550849">10550849</a></td>
+<td class="epoch">1416976006</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">08</td>
+<td class="day">15</td>
+<td class="time">11:33:19</td>
+<td class="mag ">2.5</td>
+<td class="latlon">72.4090</td>
+<td class="latlon">134.8360</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid">10366941</td>
+<td class="epoch">1408102399</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">08</td>
+<td class="day">13</td>
+<td class="time">13:23:20</td>
+<td class="mag ">2.5</td>
+<td class="latlon">73.2596</td>
+<td class="latlon">134.6651</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid">10364607</td>
+<td class="epoch">1407936200</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">08</td>
+<td class="day">03</td>
+<td class="time">20:59:30</td>
+<td class="mag ">1.4</td>
+<td class="latlon">72.4049</td>
+<td class="latlon">135.2059</td>
+<td class="mag "> 15.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid">10353837</td>
+<td class="epoch">1407099570</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">07</td>
+<td class="day">13</td>
+<td class="time">09:04:24</td>
+<td class="mag ">3.5</td>
+<td class="latlon">77.3066</td>
+<td class="latlon">125.6602</td>
+<td class="mag ">  0.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/10330970">10330970</a></td>
+<td class="epoch">1405242264</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">06</td>
+<td class="day">29</td>
+<td class="time">03:51:56</td>
+<td class="mag ">1.4</td>
+<td class="latlon">72.1988</td>
+<td class="latlon">126.3882</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10316056</td>
+<td class="epoch">1404013916</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">06</td>
+<td class="day">27</td>
+<td class="time">04:42:18</td>
+<td class="mag ">1.6</td>
+<td class="latlon">72.1460</td>
+<td class="latlon">134.3834</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid">10313923</td>
+<td class="epoch">1403844138</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">06</td>
+<td class="day">23</td>
+<td class="time">05:52:04</td>
+<td class="mag ">2.8</td>
+<td class="latlon">71.5052</td>
+<td class="latlon">130.8340</td>
+<td class="mag "> 20.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">10309653</td>
+<td class="epoch">1403502724</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">06</td>
+<td class="day">23</td>
+<td class="time">03:01:58</td>
+<td class="mag ">1.7</td>
+<td class="latlon">70.8805</td>
+<td class="latlon">136.2175</td>
+<td class="mag "> 18.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">10309550</td>
+<td class="epoch">1403492518</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">06</td>
+<td class="day">22</td>
+<td class="time">23:58:23</td>
+<td class="mag ">4.8</td>
+<td class="latlon">78.5264</td>
+<td class="latlon">125.8323</td>
+<td class="mag "> 10.6</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4722803">4722803</a></td>
+<td class="epoch">1403481503</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">06</td>
+<td class="day">22</td>
+<td class="time">09:59:07</td>
+<td class="mag ">2.2</td>
+<td class="latlon">72.8929</td>
+<td class="latlon">125.0144</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10308825</td>
+<td class="epoch">1403431147</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">06</td>
+<td class="day">21</td>
+<td class="time">14:37:21</td>
+<td class="mag ">3.6</td>
+<td class="latlon">74.8286</td>
+<td class="latlon">134.0249</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/10307957">10307957</a></td>
+<td class="epoch">1403361441</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">06</td>
+<td class="day">18</td>
+<td class="time">17:36:07</td>
+<td class="mag ">1.5</td>
+<td class="latlon">70.2430</td>
+<td class="latlon">125.3200</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10304702</td>
+<td class="epoch">1403112967</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">06</td>
+<td class="day">14</td>
+<td class="time">14:48:57</td>
+<td class="mag ">2.9</td>
+<td class="latlon">70.8612</td>
+<td class="latlon">137.7650</td>
+<td class="mag ">  9.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">10300128</td>
+<td class="epoch">1402757337</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">06</td>
+<td class="day">09</td>
+<td class="time">13:13:05</td>
+<td class="mag ">4.5</td>
+<td class="latlon">73.1918</td>
+<td class="latlon">125.8324</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/10294587">10294587</a></td>
+<td class="epoch">1402319585</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">06</td>
+<td class="day">01</td>
+<td class="time">08:52:43</td>
+<td class="mag ">4.7</td>
+<td class="latlon">75.0158</td>
+<td class="latlon">133.6350</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4640503">4640503</a></td>
+<td class="epoch">1401612763</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">05</td>
+<td class="day">30</td>
+<td class="time">05:53:17</td>
+<td class="mag ">2.2</td>
+<td class="latlon">70.7956</td>
+<td class="latlon">139.9579</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">10265480</td>
+<td class="epoch">1401429197</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">05</td>
+<td class="day">29</td>
+<td class="time">18:38:13</td>
+<td class="mag ">1.4</td>
+<td class="latlon">70.8129</td>
+<td class="latlon">140.1187</td>
+<td class="mag ">  5.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">10264714</td>
+<td class="epoch">1401388693</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">05</td>
+<td class="day">29</td>
+<td class="time">05:07:33</td>
+<td class="mag ">4.9</td>
+<td class="latlon">70.8144</td>
+<td class="latlon">140.0522</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4640192">4640192</a></td>
+<td class="epoch">1401340053</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">05</td>
+<td class="day">25</td>
+<td class="time">16:23:39</td>
+<td class="mag ">1.6</td>
+<td class="latlon">71.3684</td>
+<td class="latlon">131.9216</td>
+<td class="mag ">  3.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">10259269</td>
+<td class="epoch">1401035019</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">05</td>
+<td class="day">22</td>
+<td class="time">18:26:22</td>
+<td class="mag ">0.8</td>
+<td class="latlon">72.2949</td>
+<td class="latlon">125.5177</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10255415</td>
+<td class="epoch">1400783182</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">05</td>
+<td class="day">20</td>
+<td class="time">07:17:37</td>
+<td class="mag ">1.8</td>
+<td class="latlon">72.1493</td>
+<td class="latlon">130.0121</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid">10252577</td>
+<td class="epoch">1400570257</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">05</td>
+<td class="day">02</td>
+<td class="time">02:36:39</td>
+<td class="mag ">1.5</td>
+<td class="latlon">70.7075</td>
+<td class="latlon">138.3439</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">10231758</td>
+<td class="epoch">1398998199</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">28</td>
+<td class="time">07:30:08</td>
+<td class="mag ">1.0</td>
+<td class="latlon">72.5649</td>
+<td class="latlon">123.5946</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10197681</td>
+<td class="epoch">1398670208</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">28</td>
+<td class="time">07:06:42</td>
+<td class="mag ">1.7</td>
+<td class="latlon">72.5415</td>
+<td class="latlon">125.0175</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10197670</td>
+<td class="epoch">1398668802</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">24</td>
+<td class="time">22:03:41</td>
+<td class="mag ">2.0</td>
+<td class="latlon">71.7502</td>
+<td class="latlon">136.8352</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">10193775</td>
+<td class="epoch">1398377021</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">20</td>
+<td class="time">21:54:56</td>
+<td class="mag ">1.1</td>
+<td class="latlon">72.9136</td>
+<td class="latlon">123.1880</td>
+<td class="mag ">  5.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10188798</td>
+<td class="epoch">1398030896</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">20</td>
+<td class="time">19:33:04</td>
+<td class="mag ">1.3</td>
+<td class="latlon">72.8370</td>
+<td class="latlon">123.7142</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10188666</td>
+<td class="epoch">1398022384</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">20</td>
+<td class="time">19:21:05</td>
+<td class="mag ">2.1</td>
+<td class="latlon">72.9265</td>
+<td class="latlon">124.0081</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10188661</td>
+<td class="epoch">1398021665</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">19</td>
+<td class="time">00:51:52</td>
+<td class="mag ">3.2</td>
+<td class="latlon">73.1034</td>
+<td class="latlon">124.3346</td>
+<td class="mag ">  5.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/10186611">10186611</a></td>
+<td class="epoch">1397868712</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">18</td>
+<td class="time">04:07:31</td>
+<td class="mag ">1.7</td>
+<td class="latlon">72.6294</td>
+<td class="latlon">123.5986</td>
+<td class="mag ">  7.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10185476</td>
+<td class="epoch">1397794051</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">17</td>
+<td class="time">10:04:39</td>
+<td class="mag ">2.7</td>
+<td class="latlon">72.6101</td>
+<td class="latlon">123.7150</td>
+<td class="mag ">  3.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10184573</td>
+<td class="epoch">1397729079</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">17</td>
+<td class="time">05:25:02</td>
+<td class="mag ">3.2</td>
+<td class="latlon">72.7132</td>
+<td class="latlon">123.5776</td>
+<td class="mag ">  0.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/10184324">10184324</a></td>
+<td class="epoch">1397712302</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">15</td>
+<td class="time">12:20:17</td>
+<td class="mag ">1.5</td>
+<td class="latlon">72.7673</td>
+<td class="latlon">123.7382</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10182399</td>
+<td class="epoch">1397564417</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">14</td>
+<td class="time">19:40:38</td>
+<td class="mag ">1.0</td>
+<td class="latlon">72.5319</td>
+<td class="latlon">123.5254</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10181571</td>
+<td class="epoch">1397504438</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">14</td>
+<td class="time">11:10:33</td>
+<td class="mag ">1.2</td>
+<td class="latlon">72.6403</td>
+<td class="latlon">123.4439</td>
+<td class="mag ">  0.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10181137</td>
+<td class="epoch">1397473833</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">14</td>
+<td class="time">11:07:09</td>
+<td class="mag ">1.7</td>
+<td class="latlon">72.4775</td>
+<td class="latlon">123.5112</td>
+<td class="mag ">  0.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10181129</td>
+<td class="epoch">1397473629</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">14</td>
+<td class="time">09:03:26</td>
+<td class="mag ">1.9</td>
+<td class="latlon">72.5485</td>
+<td class="latlon">123.3933</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10181011</td>
+<td class="epoch">1397466206</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">14</td>
+<td class="time">06:45:05</td>
+<td class="mag ">3.0</td>
+<td class="latlon">72.5432</td>
+<td class="latlon">123.3482</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/10180885">10180885</a></td>
+<td class="epoch">1397457905</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">14</td>
+<td class="time">03:52:25</td>
+<td class="mag ">3.6</td>
+<td class="latlon">73.3521</td>
+<td class="latlon">124.8066</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/10180771">10180771</a></td>
+<td class="epoch">1397447545</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">12</td>
+<td class="time">05:08:07</td>
+<td class="mag ">1.3</td>
+<td class="latlon">72.6794</td>
+<td class="latlon">123.5456</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10178475</td>
+<td class="epoch">1397279287</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">11</td>
+<td class="time">13:27:05</td>
+<td class="mag ">4.2</td>
+<td class="latlon">74.8526</td>
+<td class="latlon">133.8028</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4638929">4638929</a></td>
+<td class="epoch">1397222825</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">04</td>
+<td class="time">23:13:58</td>
+<td class="mag ">2.7</td>
+<td class="latlon">73.4754</td>
+<td class="latlon">125.5409</td>
+<td class="mag ">  4.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid">10169500</td>
+<td class="epoch">1396653238</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">04</td>
+<td class="day">01</td>
+<td class="time">02:29:59</td>
+<td class="mag ">2.5</td>
+<td class="latlon">73.5669</td>
+<td class="latlon">126.0225</td>
+<td class="mag ">  4.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid">10165005</td>
+<td class="epoch">1396319399</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">03</td>
+<td class="day">27</td>
+<td class="time">09:26:57</td>
+<td class="mag ">2.4</td>
+<td class="latlon">72.6885</td>
+<td class="latlon">126.5300</td>
+<td class="mag "> 13.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">10081645</td>
+<td class="epoch">1395912417</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">03</td>
+<td class="day">03</td>
+<td class="time">09:56:12</td>
+<td class="mag ">3.5</td>
+<td class="latlon">70.7772</td>
+<td class="latlon">139.9411</td>
+<td class="mag "> 22.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/10053950">10053950</a></td>
+<td class="epoch">1393840572</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">02</td>
+<td class="day">20</td>
+<td class="time">04:40:12</td>
+<td class="mag ">1.5</td>
+<td class="latlon">70.3883</td>
+<td class="latlon">143.4504</td>
+<td class="mag "> 15.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">10028925</td>
+<td class="epoch">1392871212</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">01</td>
+<td class="day">25</td>
+<td class="time">19:48:58</td>
+<td class="mag ">1.2</td>
+<td class="latlon">72.5453</td>
+<td class="latlon">129.4174</td>
+<td class="mag ">  5.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">9984798</td>
+<td class="epoch">1390679338</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">01</td>
+<td class="day">21</td>
+<td class="time">10:32:21</td>
+<td class="mag ">0.5</td>
+<td class="latlon">71.9033</td>
+<td class="latlon">128.0312</td>
+<td class="mag ">  5.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">9979745</td>
+<td class="epoch">1390300341</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">01</td>
+<td class="day">14</td>
+<td class="time">03:43:05</td>
+<td class="mag ">4.1</td>
+<td class="latlon">78.8131</td>
+<td class="latlon">125.9616</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4527749">4527749</a></td>
+<td class="epoch">1389670985</td>
+</tr>
+<tr class="odd">
+<td class="day">2014</td>
+<td class="day">01</td>
+<td class="day">03</td>
+<td class="time">19:09:27</td>
+<td class="mag ">2.8</td>
+<td class="latlon">72.2186</td>
+<td class="latlon">128.9529</td>
+<td class="mag "> 23.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">9959873</td>
+<td class="epoch">1388776167</td>
+</tr>
+<tr class="even">
+<td class="day">2014</td>
+<td class="day">01</td>
+<td class="day">01</td>
+<td class="time">14:46:31</td>
+<td class="mag ">3.8</td>
+<td class="latlon">73.1804</td>
+<td class="latlon">132.4568</td>
+<td class="mag "> 22.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/9957199">9957199</a></td>
+<td class="epoch">1388587591</td>
+</tr>
+<tr class="odd">
+<td class="day">2013</td>
+<td class="day">10</td>
+<td class="day">04</td>
+<td class="time">21:09:42</td>
+<td class="mag ">3.6</td>
+<td class="latlon">77.0579</td>
+<td class="latlon">129.7242</td>
+<td class="mag ">  0.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/9270823">9270823</a></td>
+<td class="epoch">1380920982</td>
+</tr>
+<tr class="even">
+<td class="day">2013</td>
+<td class="day">10</td>
+<td class="day">03</td>
+<td class="time">22:11:52</td>
+<td class="mag ">3.6</td>
+<td class="latlon">76.4711</td>
+<td class="latlon">130.6313</td>
+<td class="mag ">  0.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/9269852">9269852</a></td>
+<td class="epoch">1380838312</td>
+</tr>
+<tr class="odd">
+<td class="day">2013</td>
+<td class="day">09</td>
+<td class="day">28</td>
+<td class="time">14:37:33</td>
+<td class="mag ">4.6</td>
+<td class="latlon">77.0750</td>
+<td class="latlon">129.8832</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/9226643">9226643</a></td>
+<td class="epoch">1380379053</td>
+</tr>
+<tr class="even">
+<td class="day">2013</td>
+<td class="day">09</td>
+<td class="day">09</td>
+<td class="time">19:04:17</td>
+<td class="mag ">4.6</td>
+<td class="latlon">76.2104</td>
+<td class="latlon">133.5724</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/9205821">9205821</a></td>
+<td class="epoch">1378753457</td>
+</tr>
+<tr class="odd">
+<td class="day">2013</td>
+<td class="day">08</td>
+<td class="day">07</td>
+<td class="time">18:29:12</td>
+<td class="mag ">4.5</td>
+<td class="latlon">75.8739</td>
+<td class="latlon">132.6508</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/9167792">9167792</a></td>
+<td class="epoch">1375900152</td>
+</tr>
+<tr class="even">
+<td class="day">2013</td>
+<td class="day">06</td>
+<td class="day">27</td>
+<td class="time">21:14:43</td>
+<td class="mag ">3.6</td>
+<td class="latlon">74.4374</td>
+<td class="latlon">133.1593</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/9119254">9119254</a></td>
+<td class="epoch">1372367683</td>
+</tr>
+<tr class="odd">
+<td class="day">2013</td>
+<td class="day">04</td>
+<td class="day">30</td>
+<td class="time">16:21:09</td>
+<td class="mag ">3.4</td>
+<td class="latlon">75.2738</td>
+<td class="latlon">116.4306</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/9335758">9335758</a></td>
+<td class="epoch">1367338869</td>
+</tr>
+<tr class="even">
+<td class="day">2013</td>
+<td class="day">04</td>
+<td class="day">16</td>
+<td class="time">00:36:11</td>
+<td class="mag ">3.7</td>
+<td class="latlon">72.9783</td>
+<td class="latlon">135.6686</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/9315135">9315135</a></td>
+<td class="epoch">1366072571</td>
+</tr>
+<tr class="odd">
+<td class="day">2013</td>
+<td class="day">04</td>
+<td class="day">11</td>
+<td class="time">20:01:09</td>
+<td class="mag ">4.5</td>
+<td class="latlon">74.1099</td>
+<td class="latlon">129.6209</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/9309547">9309547</a></td>
+<td class="epoch">1365710469</td>
+</tr>
+<tr class="even">
+<td class="day">2013</td>
+<td class="day">03</td>
+<td class="day">22</td>
+<td class="time">06:39:15</td>
+<td class="mag ">4.3</td>
+<td class="latlon">77.9014</td>
+<td class="latlon">126.4874</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/9054044">9054044</a></td>
+<td class="epoch">1363934355</td>
+</tr>
+<tr class="odd">
+<td class="day">2013</td>
+<td class="day">02</td>
+<td class="day">07</td>
+<td class="time">03:33:48</td>
+<td class="mag ">4.3</td>
+<td class="latlon">74.2361</td>
+<td class="latlon">129.9105</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/9000012">9000012</a></td>
+<td class="epoch">1360208028</td>
+</tr>
+<tr class="even">
+<td class="day">2012</td>
+<td class="day">12</td>
+<td class="day">14</td>
+<td class="time">05:17:33</td>
+<td class="mag ">3.4</td>
+<td class="latlon">79.9804</td>
+<td class="latlon">121.0455</td>
+<td class="mag ">  0.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/8939716">8939716</a></td>
+<td class="epoch">1355462253</td>
+</tr>
+<tr class="odd">
+<td class="day">2012</td>
+<td class="day">07</td>
+<td class="day">27</td>
+<td class="time">14:01:27</td>
+<td class="mag ">4.4</td>
+<td class="latlon">79.1154</td>
+<td class="latlon">123.9758</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/8784845">8784845</a></td>
+<td class="epoch">1343397687</td>
+</tr>
+<tr class="even">
+<td class="day">2012</td>
+<td class="day">07</td>
+<td class="day">06</td>
+<td class="time">08:11:04</td>
+<td class="mag ">3.6</td>
+<td class="latlon">77.6440</td>
+<td class="latlon">127.0148</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/8759869">8759869</a></td>
+<td class="epoch">1341562264</td>
+</tr>
+<tr class="odd">
+<td class="day">2012</td>
+<td class="day">04</td>
+<td class="day">16</td>
+<td class="time">13:56:49</td>
+<td class="mag ">3.6</td>
+<td class="latlon">79.7141</td>
+<td class="latlon">123.9943</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4913111">4913111</a></td>
+<td class="epoch">1334584609</td>
+</tr>
+<tr class="even">
+<td class="day">2012</td>
+<td class="day">04</td>
+<td class="day">07</td>
+<td class="time">10:39:17</td>
+<td class="mag ">3.3</td>
+<td class="latlon">74.8174</td>
+<td class="latlon">137.0755</td>
+<td class="mag "> 10.0</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4901964">4901964</a></td>
+<td class="epoch">1333795157</td>
+</tr>
+<tr class="odd">
+<td class="day">2012</td>
+<td class="day">04</td>
+<td class="day">07</td>
+<td class="time">00:15:00</td>
+<td class="mag ">4.4</td>
+<td class="latlon">74.8066</td>
+<td class="latlon">136.7595</td>
+<td class="mag "> 10.0</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3338578">3338578</a></td>
+<td class="epoch">1333757700</td>
+</tr>
+<tr class="even">
+<td class="day">2012</td>
+<td class="day">04</td>
+<td class="day">07</td>
+<td class="time">00:12:19</td>
+<td class="mag ">4.4</td>
+<td class="latlon">75.0205</td>
+<td class="latlon">136.2230</td>
+<td class="mag "> 10.0</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3338577">3338577</a></td>
+<td class="epoch">1333757539</td>
+</tr>
+<tr class="odd">
+<td class="day">2012</td>
+<td class="day">04</td>
+<td class="day">05</td>
+<td class="time">18:42:33</td>
+<td class="mag ">4.7</td>
+<td class="latlon">74.8776</td>
+<td class="latlon">136.4507</td>
+<td class="mag "> 41.4</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3339746">3339746</a></td>
+<td class="epoch">1333651353</td>
+</tr>
+<tr class="even">
+<td class="day">2012</td>
+<td class="day">03</td>
+<td class="day">24</td>
+<td class="time">23:12:44</td>
+<td class="mag ">3.8</td>
+<td class="latlon">74.8061</td>
+<td class="latlon">133.8106</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4886333">4886333</a></td>
+<td class="epoch">1332630764</td>
+</tr>
+<tr class="odd">
+<td class="day">2012</td>
+<td class="day">02</td>
+<td class="day">03</td>
+<td class="time">10:20:51</td>
+<td class="mag ">3.4</td>
+<td class="latlon">74.5974</td>
+<td class="latlon">132.6567</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4824027">4824027</a></td>
+<td class="epoch">1328264451</td>
+</tr>
+<tr class="even">
+<td class="day">2011</td>
+<td class="day">12</td>
+<td class="day">27</td>
+<td class="time">20:25:35</td>
+<td class="mag ">4.7</td>
+<td class="latlon">74.0383</td>
+<td class="latlon">133.9639</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3333632">3333632</a></td>
+<td class="epoch">1325017535</td>
+</tr>
+<tr class="odd">
+<td class="day">2011</td>
+<td class="day">09</td>
+<td class="day">29</td>
+<td class="time">16:08:14</td>
+<td class="mag ">4.4</td>
+<td class="latlon">79.7663</td>
+<td class="latlon">124.0722</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3323595">3323595</a></td>
+<td class="epoch">1317312494</td>
+</tr>
+<tr class="even">
+<td class="day">2011</td>
+<td class="day">09</td>
+<td class="day">28</td>
+<td class="time">14:58:29</td>
+<td class="mag ">3.4</td>
+<td class="latlon">72.3062</td>
+<td class="latlon">143.4139</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4635145">4635145</a></td>
+<td class="epoch">1317221909</td>
+</tr>
+<tr class="odd">
+<td class="day">2011</td>
+<td class="day">08</td>
+<td class="day">20</td>
+<td class="time">05:57:41</td>
+<td class="mag ">4.5</td>
+<td class="latlon">79.2731</td>
+<td class="latlon">123.9942</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3322705">3322705</a></td>
+<td class="epoch">1313819861</td>
+</tr>
+<tr class="even">
+<td class="day">2011</td>
+<td class="day">08</td>
+<td class="day">08</td>
+<td class="time">19:54:47</td>
+<td class="mag ">3.7</td>
+<td class="latlon">75.4522</td>
+<td class="latlon">134.0820</td>
+<td class="mag ">  0.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4567982">4567982</a></td>
+<td class="epoch">1312833287</td>
+</tr>
+<tr class="odd">
+<td class="day">2011</td>
+<td class="day">07</td>
+<td class="day">23</td>
+<td class="time">17:59:21</td>
+<td class="mag ">4.9</td>
+<td class="latlon">74.2847</td>
+<td class="latlon">133.0495</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3321420">3321420</a></td>
+<td class="epoch">1311443961</td>
+</tr>
+<tr class="even">
+<td class="day">2011</td>
+<td class="day">07</td>
+<td class="day">16</td>
+<td class="time">06:42:23</td>
+<td class="mag ">4.4</td>
+<td class="latlon">74.3234</td>
+<td class="latlon">134.5855</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3319084">3319084</a></td>
+<td class="epoch">1310798543</td>
+</tr>
+<tr class="odd">
+<td class="day">2011</td>
+<td class="day">06</td>
+<td class="day">29</td>
+<td class="time">11:06:53</td>
+<td class="mag ">3.6</td>
+<td class="latlon">75.0137</td>
+<td class="latlon">133.3810</td>
+<td class="mag ">  0.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4485843">4485843</a></td>
+<td class="epoch">1309345613</td>
+</tr>
+<tr class="even">
+<td class="day">2011</td>
+<td class="day">06</td>
+<td class="day">09</td>
+<td class="time">04:06:00</td>
+<td class="mag ">3.8</td>
+<td class="latlon">76.2696</td>
+<td class="latlon">130.4745</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4458817">4458817</a></td>
+<td class="epoch">1307592360</td>
+</tr>
+<tr class="odd">
+<td class="day">2011</td>
+<td class="day">06</td>
+<td class="day">07</td>
+<td class="time">17:13:23</td>
+<td class="mag ">4.1</td>
+<td class="latlon">74.7520</td>
+<td class="latlon">131.5127</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3318906">3318906</a></td>
+<td class="epoch">1307466803</td>
+</tr>
+<tr class="even">
+<td class="day">2011</td>
+<td class="day">05</td>
+<td class="day">29</td>
+<td class="time">16:48:39</td>
+<td class="mag ">3.4</td>
+<td class="latlon">73.4200</td>
+<td class="latlon">121.6239</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/8673736">8673736</a></td>
+<td class="epoch">1306687719</td>
+</tr>
+<tr class="odd">
+<td class="day">2011</td>
+<td class="day">05</td>
+<td class="day">20</td>
+<td class="time">04:51:45</td>
+<td class="mag ">4.8</td>
+<td class="latlon">72.8554</td>
+<td class="latlon">121.3506</td>
+<td class="mag "> 11.4</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3288039">3288039</a></td>
+<td class="epoch">1305867105</td>
+</tr>
+<tr class="even">
+<td class="day">2011</td>
+<td class="day">05</td>
+<td class="day">16</td>
+<td class="time">07:02:43</td>
+<td class="mag ">3.5</td>
+<td class="latlon">72.5879</td>
+<td class="latlon">120.7292</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4438221">4438221</a></td>
+<td class="epoch">1305529363</td>
+</tr>
+<tr class="odd">
+<td class="day">2011</td>
+<td class="day">05</td>
+<td class="day">16</td>
+<td class="time">06:49:59</td>
+<td class="mag ">4.1</td>
+<td class="latlon">72.4941</td>
+<td class="latlon">120.8052</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3324294">3324294</a></td>
+<td class="epoch">1305528599</td>
+</tr>
+<tr class="even">
+<td class="day">2011</td>
+<td class="day">05</td>
+<td class="day">15</td>
+<td class="time">11:57:20</td>
+<td class="mag ">3.7</td>
+<td class="latlon">72.8583</td>
+<td class="latlon">121.3194</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4437271">4437271</a></td>
+<td class="epoch">1305460640</td>
+</tr>
+<tr class="odd">
+<td class="day">2011</td>
+<td class="day">05</td>
+<td class="day">15</td>
+<td class="time">10:58:21</td>
+<td class="mag ">3.6</td>
+<td class="latlon">72.7533</td>
+<td class="latlon">120.9567</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4437195">4437195</a></td>
+<td class="epoch">1305457101</td>
+</tr>
+<tr class="even">
+<td class="day">2011</td>
+<td class="day">04</td>
+<td class="day">20</td>
+<td class="time">02:16:53</td>
+<td class="mag ">3.5</td>
+<td class="latlon">79.2861</td>
+<td class="latlon">124.5248</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4402330">4402330</a></td>
+<td class="epoch">1303265813</td>
+</tr>
+<tr class="odd">
+<td class="day">2011</td>
+<td class="day">03</td>
+<td class="day">01</td>
+<td class="time">02:27:36</td>
+<td class="mag ">3.3</td>
+<td class="latlon">78.4511</td>
+<td class="latlon">128.4226</td>
+<td class="mag ">  0.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4311318">4311318</a></td>
+<td class="epoch">1298946456</td>
+</tr>
+<tr class="even">
+<td class="day">2011</td>
+<td class="day">02</td>
+<td class="day">18</td>
+<td class="time">00:26:55</td>
+<td class="mag ">3.7</td>
+<td class="latlon">71.2571</td>
+<td class="latlon">130.1122</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4297555">4297555</a></td>
+<td class="epoch">1297988815</td>
+</tr>
+<tr class="odd">
+<td class="day">2011</td>
+<td class="day">01</td>
+<td class="day">12</td>
+<td class="time">04:16:07</td>
+<td class="mag ">4.3</td>
+<td class="latlon">70.4310</td>
+<td class="latlon">142.2490</td>
+<td class="mag ">  4.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4262203">4262203</a></td>
+<td class="epoch">1294805767</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">12</td>
+<td class="day">28</td>
+<td class="time">16:30:14</td>
+<td class="mag ">1.6</td>
+<td class="latlon">70.8200</td>
+<td class="latlon">140.5500</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">4248960</td>
+<td class="epoch">1293553814</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">12</td>
+<td class="day">28</td>
+<td class="time">15:25:10</td>
+<td class="mag ">3.7</td>
+<td class="latlon">77.3985</td>
+<td class="latlon">125.3744</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4248920">4248920</a></td>
+<td class="epoch">1293549910</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">12</td>
+<td class="day">23</td>
+<td class="time">09:37:14</td>
+<td class="mag ">1.6</td>
+<td class="latlon">70.3100</td>
+<td class="latlon">131.3700</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">4244585</td>
+<td class="epoch">1293097034</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">12</td>
+<td class="day">23</td>
+<td class="time">08:14:52</td>
+<td class="mag ">2.3</td>
+<td class="latlon">71.7900</td>
+<td class="latlon">129.2500</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">4244517</td>
+<td class="epoch">1293092092</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">12</td>
+<td class="day">23</td>
+<td class="time">06:29:07</td>
+<td class="mag ">2.6</td>
+<td class="latlon">71.7800</td>
+<td class="latlon">129.2000</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">4244462</td>
+<td class="epoch">1293085747</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">12</td>
+<td class="day">21</td>
+<td class="time">05:39:36</td>
+<td class="mag ">3.8</td>
+<td class="latlon">79.8191</td>
+<td class="latlon">124.1347</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4242410">4242410</a></td>
+<td class="epoch">1292909976</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">12</td>
+<td class="day">21</td>
+<td class="time">00:33:56</td>
+<td class="mag ">1.3</td>
+<td class="latlon">71.3900</td>
+<td class="latlon">138.1600</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">4242251</td>
+<td class="epoch">1292891636</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">12</td>
+<td class="day">15</td>
+<td class="time">03:30:55</td>
+<td class="mag ">2.1</td>
+<td class="latlon">71.3600</td>
+<td class="latlon">137.9400</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">4237433</td>
+<td class="epoch">1292383855</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">11</td>
+<td class="day">23</td>
+<td class="time">00:57:09</td>
+<td class="mag ">4.9</td>
+<td class="latlon">74.7573</td>
+<td class="latlon">133.6095</td>
+<td class="mag "> 19.8</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3207567">3207567</a></td>
+<td class="epoch">1290473829</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">11</td>
+<td class="day">07</td>
+<td class="time">09:38:10</td>
+<td class="mag ">3.6</td>
+<td class="latlon">75.0484</td>
+<td class="latlon">133.5654</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4190464">4190464</a></td>
+<td class="epoch">1289122690</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">10</td>
+<td class="day">29</td>
+<td class="time">11:37:55</td>
+<td class="mag ">3.8</td>
+<td class="latlon">74.9351</td>
+<td class="latlon">132.9118</td>
+<td class="mag ">  0.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4181933">4181933</a></td>
+<td class="epoch">1288352275</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">08</td>
+<td class="day">22</td>
+<td class="time">19:25:03</td>
+<td class="mag ">4.1</td>
+<td class="latlon">75.7328</td>
+<td class="latlon">132.5104</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2878830">2878830</a></td>
+<td class="epoch">1282505103</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">07</td>
+<td class="day">31</td>
+<td class="time">17:02:12</td>
+<td class="mag ">3.8</td>
+<td class="latlon">75.6585</td>
+<td class="latlon">132.0435</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4094295">4094295</a></td>
+<td class="epoch">1280595732</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">07</td>
+<td class="day">12</td>
+<td class="time">10:06:43</td>
+<td class="mag ">4.9</td>
+<td class="latlon">72.9793</td>
+<td class="latlon">123.7883</td>
+<td class="mag "> 13.3</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2875180">2875180</a></td>
+<td class="epoch">1278929203</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">06</td>
+<td class="day">26</td>
+<td class="time">04:06:12</td>
+<td class="mag ">3.8</td>
+<td class="latlon">73.1102</td>
+<td class="latlon">122.6422</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/4062255">4062255</a></td>
+<td class="epoch">1277525172</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">06</td>
+<td class="day">16</td>
+<td class="time">12:12:49</td>
+<td class="mag ">1.4</td>
+<td class="latlon">71.4700</td>
+<td class="latlon">141.5500</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">4053947</td>
+<td class="epoch">1276690369</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">06</td>
+<td class="day">10</td>
+<td class="time">23:12:33</td>
+<td class="mag ">2.9</td>
+<td class="latlon">73.2200</td>
+<td class="latlon">142.5200</td>
+<td class="mag "> 10.0</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid">4048726</td>
+<td class="epoch">1276211553</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">05</td>
+<td class="day">14</td>
+<td class="time">16:33:19</td>
+<td class="mag ">1.6</td>
+<td class="latlon">70.4600</td>
+<td class="latlon">135.7100</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">4022976</td>
+<td class="epoch">1273854799</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">05</td>
+<td class="day">13</td>
+<td class="time">05:07:29</td>
+<td class="mag ">2.2</td>
+<td class="latlon">72.8000</td>
+<td class="latlon">126.5400</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">4021458</td>
+<td class="epoch">1273727249</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">05</td>
+<td class="day">11</td>
+<td class="time">02:16:15</td>
+<td class="mag ">1.9</td>
+<td class="latlon">70.0800</td>
+<td class="latlon">130.1400</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">4019431</td>
+<td class="epoch">1273544175</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">05</td>
+<td class="day">06</td>
+<td class="time">07:56:17</td>
+<td class="mag ">1.8</td>
+<td class="latlon">70.0900</td>
+<td class="latlon">140.9500</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">4015130</td>
+<td class="epoch">1273132577</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">05</td>
+<td class="day">02</td>
+<td class="time">22:06:52</td>
+<td class="mag ">1.8</td>
+<td class="latlon">70.1300</td>
+<td class="latlon">130.3100</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">4012055</td>
+<td class="epoch">1272838012</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">04</td>
+<td class="day">10</td>
+<td class="time">13:23:20</td>
+<td class="mag ">1.8</td>
+<td class="latlon">71.8000</td>
+<td class="latlon">129.0400</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">3991586</td>
+<td class="epoch">1270905800</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">04</td>
+<td class="day">08</td>
+<td class="time">02:01:33</td>
+<td class="mag ">1.8</td>
+<td class="latlon">70.8300</td>
+<td class="latlon">129.8600</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">3989290</td>
+<td class="epoch">1270692093</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">04</td>
+<td class="day">01</td>
+<td class="time">04:30:20</td>
+<td class="mag ">3.7</td>
+<td class="latlon">70.7816</td>
+<td class="latlon">139.9255</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3983214">3983214</a></td>
+<td class="epoch">1270096220</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">03</td>
+<td class="day">31</td>
+<td class="time">15:36:53</td>
+<td class="mag ">3.4</td>
+<td class="latlon">75.9082</td>
+<td class="latlon">135.4171</td>
+<td class="mag "> 10.0</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3982800">3982800</a></td>
+<td class="epoch">1270049813</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">03</td>
+<td class="day">24</td>
+<td class="time">12:44:20</td>
+<td class="mag ">1.9</td>
+<td class="latlon">72.0300</td>
+<td class="latlon">135.6900</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid">3976608</td>
+<td class="epoch">1269434660</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">03</td>
+<td class="day">23</td>
+<td class="time">19:32:46</td>
+<td class="mag ">3.9</td>
+<td class="latlon">72.1200</td>
+<td class="latlon">126.5712</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3975959">3975959</a></td>
+<td class="epoch">1269372766</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">03</td>
+<td class="day">02</td>
+<td class="time">06:59:05</td>
+<td class="mag ">1.3</td>
+<td class="latlon">70.5700</td>
+<td class="latlon">129.8600</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid">3955663</td>
+<td class="epoch">1267513145</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">02</td>
+<td class="day">01</td>
+<td class="time">09:22:44</td>
+<td class="mag ">3.2</td>
+<td class="latlon">70.8700</td>
+<td class="latlon">140.3200</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3931516">3931516</a></td>
+<td class="epoch">1265016164</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">01</td>
+<td class="day">29</td>
+<td class="time">05:31:00</td>
+<td class="mag ">1.9</td>
+<td class="latlon">71.3000</td>
+<td class="latlon">130.4800</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">3928916</td>
+<td class="epoch">1264743060</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">01</td>
+<td class="day">24</td>
+<td class="time">17:17:01</td>
+<td class="mag ">1.9</td>
+<td class="latlon">73.0800</td>
+<td class="latlon">136.7600</td>
+<td class="mag "> 10.0</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid">3925339</td>
+<td class="epoch">1264353421</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">01</td>
+<td class="day">10</td>
+<td class="time">23:02:33</td>
+<td class="mag ">2.6</td>
+<td class="latlon">74.5600</td>
+<td class="latlon">136.2900</td>
+<td class="mag "> 10.0</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid">3913940</td>
+<td class="epoch">1263164553</td>
+</tr>
+<tr class="odd">
+<td class="day">2010</td>
+<td class="day">01</td>
+<td class="day">10</td>
+<td class="time">23:02:29</td>
+<td class="mag ">3.6</td>
+<td class="latlon">76.6749</td>
+<td class="latlon">126.4486</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3913939">3913939</a></td>
+<td class="epoch">1263164549</td>
+</tr>
+<tr class="even">
+<td class="day">2010</td>
+<td class="day">01</td>
+<td class="day">06</td>
+<td class="time">05:19:29</td>
+<td class="mag ">2.0</td>
+<td class="latlon">70.8500</td>
+<td class="latlon">140.4500</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid">3910340</td>
+<td class="epoch">1262755169</td>
+</tr>
+<tr class="odd">
+<td class="day">2009</td>
+<td class="day">10</td>
+<td class="day">07</td>
+<td class="time">00:29:54</td>
+<td class="mag ">4.5</td>
+<td class="latlon">73.3676</td>
+<td class="latlon">134.2823</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3833534">3833534</a></td>
+<td class="epoch">1254875394</td>
+</tr>
+<tr class="even">
+<td class="day">2009</td>
+<td class="day">08</td>
+<td class="day">11</td>
+<td class="time">04:12:57</td>
+<td class="mag ">3.9</td>
+<td class="latlon">79.1573</td>
+<td class="latlon">124.5430</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3779471">3779471</a></td>
+<td class="epoch">1249963977</td>
+</tr>
+<tr class="odd">
+<td class="day">2009</td>
+<td class="day">07</td>
+<td class="day">30</td>
+<td class="time">12:25:28</td>
+<td class="mag ">3.6</td>
+<td class="latlon">73.5411</td>
+<td class="latlon">148.2815</td>
+<td class="mag ">  0.0</td>
+<td>EAST SIBERIAN SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3768691">3768691</a></td>
+<td class="epoch">1248956728</td>
+</tr>
+<tr class="even">
+<td class="day">2008</td>
+<td class="day">07</td>
+<td class="day">29</td>
+<td class="time">19:23:44</td>
+<td class="mag ">3.7</td>
+<td class="latlon">75.9247</td>
+<td class="latlon">134.7144</td>
+<td class="mag ">  0.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2806107">2806107</a></td>
+<td class="epoch">1217359424</td>
+</tr>
+<tr class="odd">
+<td class="day">2008</td>
+<td class="day">07</td>
+<td class="day">04</td>
+<td class="time">04:55:05</td>
+<td class="mag ">5.0</td>
+<td class="latlon">75.3977</td>
+<td class="latlon">134.0393</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2730621">2730621</a></td>
+<td class="epoch">1215147305</td>
+</tr>
+<tr class="even">
+<td class="day">2008</td>
+<td class="day">06</td>
+<td class="day">22</td>
+<td class="time">19:45:29</td>
+<td class="mag ">4.3</td>
+<td class="latlon">77.0633</td>
+<td class="latlon">131.0803</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2774989">2774989</a></td>
+<td class="epoch">1214163929</td>
+</tr>
+<tr class="odd">
+<td class="day">2008</td>
+<td class="day">05</td>
+<td class="day">15</td>
+<td class="time">15:29:05</td>
+<td class="mag ">3.5</td>
+<td class="latlon">74.7975</td>
+<td class="latlon">134.0618</td>
+<td class="mag ">  6.2</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2719615">2719615</a></td>
+<td class="epoch">1210865345</td>
+</tr>
+<tr class="even">
+<td class="day">2008</td>
+<td class="day">01</td>
+<td class="day">02</td>
+<td class="time">05:18:03</td>
+<td class="mag ">4.0</td>
+<td class="latlon">73.9363</td>
+<td class="latlon">114.5918</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2649770">2649770</a></td>
+<td class="epoch">1199251083</td>
+</tr>
+<tr class="odd">
+<td class="day">2007</td>
+<td class="day">12</td>
+<td class="day">13</td>
+<td class="time">20:48:01</td>
+<td class="mag ">3.6</td>
+<td class="latlon">72.9237</td>
+<td class="latlon">126.8770</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2565584">2565584</a></td>
+<td class="epoch">1197578881</td>
+</tr>
+<tr class="even">
+<td class="day">2007</td>
+<td class="day">07</td>
+<td class="day">19</td>
+<td class="time">06:18:44</td>
+<td class="mag ">4.4</td>
+<td class="latlon">72.2372</td>
+<td class="latlon">125.7976</td>
+<td class="mag ">  8.3</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2597550">2597550</a></td>
+<td class="epoch">1184825924</td>
+</tr>
+<tr class="odd">
+<td class="day">2007</td>
+<td class="day">07</td>
+<td class="day">12</td>
+<td class="time">20:29:24</td>
+<td class="mag ">3.8</td>
+<td class="latlon">72.2931</td>
+<td class="latlon">125.7074</td>
+<td class="mag ">  2.1</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2564677">2564677</a></td>
+<td class="epoch">1184272164</td>
+</tr>
+<tr class="even">
+<td class="day">2007</td>
+<td class="day">06</td>
+<td class="day">06</td>
+<td class="time">14:21:29</td>
+<td class="mag ">3.9</td>
+<td class="latlon">72.6390</td>
+<td class="latlon">124.9940</td>
+<td class="mag "> 33.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2423177">2423177</a></td>
+<td class="epoch">1181139689</td>
+</tr>
+<tr class="odd">
+<td class="day">2007</td>
+<td class="day">04</td>
+<td class="day">11</td>
+<td class="time">17:44:28</td>
+<td class="mag ">4.3</td>
+<td class="latlon">78.8082</td>
+<td class="latlon">125.7091</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2466152">2466152</a></td>
+<td class="epoch">1176313468</td>
+</tr>
+<tr class="even">
+<td class="day">2007</td>
+<td class="day">03</td>
+<td class="day">16</td>
+<td class="time">21:08:10</td>
+<td class="mag ">4.6</td>
+<td class="latlon">70.0037</td>
+<td class="latlon">140.6130</td>
+<td class="mag ">  4.9</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2453693">2453693</a></td>
+<td class="epoch">1174079290</td>
+</tr>
+<tr class="odd">
+<td class="day">2007</td>
+<td class="day">03</td>
+<td class="day">14</td>
+<td class="time">08:51:09</td>
+<td class="mag ">4.5</td>
+<td class="latlon">77.7693</td>
+<td class="latlon">126.5449</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2445274">2445274</a></td>
+<td class="epoch">1173862269</td>
+</tr>
+<tr class="even">
+<td class="day">2007</td>
+<td class="day">02</td>
+<td class="day">27</td>
+<td class="time">16:54:05</td>
+<td class="mag ">4.9</td>
+<td class="latlon">77.8501</td>
+<td class="latlon">126.6116</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2507315">2507315</a></td>
+<td class="epoch">1172595245</td>
+</tr>
+<tr class="odd">
+<td class="day">2007</td>
+<td class="day">01</td>
+<td class="day">11</td>
+<td class="time">01:59:46</td>
+<td class="mag ">4.5</td>
+<td class="latlon">74.2192</td>
+<td class="latlon">146.9969</td>
+<td class="mag "> 10.0</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2437071">2437071</a></td>
+<td class="epoch">1168480786</td>
+</tr>
+<tr class="even">
+<td class="day">2006</td>
+<td class="day">12</td>
+<td class="day">17</td>
+<td class="time">11:39:08</td>
+<td class="mag ">3.7</td>
+<td class="latlon">74.5819</td>
+<td class="latlon">132.3907</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2351290">2351290</a></td>
+<td class="epoch">1166355548</td>
+</tr>
+<tr class="odd">
+<td class="day">2006</td>
+<td class="day">06</td>
+<td class="day">09</td>
+<td class="time">01:26:55</td>
+<td class="mag ">4.1</td>
+<td class="latlon">74.0210</td>
+<td class="latlon">137.4190</td>
+<td class="mag "> 33.0</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2209968">2209968</a></td>
+<td class="epoch">1149816415</td>
+</tr>
+<tr class="even">
+<td class="day">2006</td>
+<td class="day">04</td>
+<td class="day">03</td>
+<td class="time">15:38:37</td>
+<td class="mag ">3.3</td>
+<td class="latlon">74.5131</td>
+<td class="latlon">129.3473</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2191761">2191761</a></td>
+<td class="epoch">1144078717</td>
+</tr>
+<tr class="odd">
+<td class="day">2006</td>
+<td class="day">04</td>
+<td class="day">03</td>
+<td class="time">15:18:06</td>
+<td class="mag ">3.8</td>
+<td class="latlon">74.8501</td>
+<td class="latlon">128.3084</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2191727">2191727</a></td>
+<td class="epoch">1144077486</td>
+</tr>
+<tr class="even">
+<td class="day">2006</td>
+<td class="day">03</td>
+<td class="day">28</td>
+<td class="time">18:36:56</td>
+<td class="mag ">4.5</td>
+<td class="latlon">76.5266</td>
+<td class="latlon">130.4995</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2313630">2313630</a></td>
+<td class="epoch">1143571016</td>
+</tr>
+<tr class="odd">
+<td class="day">2006</td>
+<td class="day">02</td>
+<td class="day">09</td>
+<td class="time">05:38:21</td>
+<td class="mag ">4.1</td>
+<td class="latlon">79.9547</td>
+<td class="latlon">123.8478</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2212008">2212008</a></td>
+<td class="epoch">1139463501</td>
+</tr>
+<tr class="even">
+<td class="day">2005</td>
+<td class="day">08</td>
+<td class="day">15</td>
+<td class="time">21:24:32</td>
+<td class="mag ">4.4</td>
+<td class="latlon">74.6004</td>
+<td class="latlon">134.0275</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2123979">2123979</a></td>
+<td class="epoch">1124141072</td>
+</tr>
+<tr class="odd">
+<td class="day">2004</td>
+<td class="day">10</td>
+<td class="day">02</td>
+<td class="time">11:05:59</td>
+<td class="mag ">4.5</td>
+<td class="latlon">73.8288</td>
+<td class="latlon">114.5430</td>
+<td class="mag ">  7.6</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1762478">1762478</a></td>
+<td class="epoch">1096715159</td>
+</tr>
+<tr class="even">
+<td class="day">2004</td>
+<td class="day">06</td>
+<td class="day">28</td>
+<td class="time">02:11:57</td>
+<td class="mag ">4.8</td>
+<td class="latlon">74.2320</td>
+<td class="latlon">134.1005</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1906774">1906774</a></td>
+<td class="epoch">1088388717</td>
+</tr>
+<tr class="odd">
+<td class="day">2004</td>
+<td class="day">04</td>
+<td class="day">27</td>
+<td class="time">04:45:41</td>
+<td class="mag ">3.4</td>
+<td class="latlon">79.8523</td>
+<td class="latlon">123.1966</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1902111">1902111</a></td>
+<td class="epoch">1083041141</td>
+</tr>
+<tr class="even">
+<td class="day">2004</td>
+<td class="day">02</td>
+<td class="day">04</td>
+<td class="time">22:55:33</td>
+<td class="mag ">3.7</td>
+<td class="latlon">77.9733</td>
+<td class="latlon">126.3936</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1704682">1704682</a></td>
+<td class="epoch">1075935333</td>
+</tr>
+<tr class="odd">
+<td class="day">2004</td>
+<td class="day">01</td>
+<td class="day">12</td>
+<td class="time">00:17:48</td>
+<td class="mag ">3.4</td>
+<td class="latlon">76.2882</td>
+<td class="latlon">133.5084</td>
+<td class="mag ">  0.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1720438">1720438</a></td>
+<td class="epoch">1073866668</td>
+</tr>
+<tr class="even">
+<td class="day">2004</td>
+<td class="day">01</td>
+<td class="day">02</td>
+<td class="time">21:56:43</td>
+<td class="mag ">3.8</td>
+<td class="latlon">74.0274</td>
+<td class="latlon">134.5910</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1702191">1702191</a></td>
+<td class="epoch">1073080603</td>
+</tr>
+<tr class="odd">
+<td class="day">2003</td>
+<td class="day">12</td>
+<td class="day">07</td>
+<td class="time">09:16:12</td>
+<td class="mag ">5.1</td>
+<td class="latlon">74.1038</td>
+<td class="latlon">134.8185</td>
+<td class="mag "> 10.3</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1625161">1625161</a></td>
+<td class="epoch">1070788572</td>
+</tr>
+<tr class="even">
+<td class="day">2003</td>
+<td class="day">12</td>
+<td class="day">07</td>
+<td class="time">09:10:17</td>
+<td class="mag ">4.9</td>
+<td class="latlon">74.1181</td>
+<td class="latlon">134.7051</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1625113">1625113</a></td>
+<td class="epoch">1070788217</td>
+</tr>
+<tr class="odd">
+<td class="day">2003</td>
+<td class="day">12</td>
+<td class="day">07</td>
+<td class="time">09:09:19</td>
+<td class="mag ">4.6</td>
+<td class="latlon">74.1863</td>
+<td class="latlon">134.6287</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1625094">1625094</a></td>
+<td class="epoch">1070788159</td>
+</tr>
+<tr class="even">
+<td class="day">2003</td>
+<td class="day">07</td>
+<td class="day">26</td>
+<td class="time">16:41:44</td>
+<td class="mag ">4.4</td>
+<td class="latlon">79.4894</td>
+<td class="latlon">123.2530</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1648721">1648721</a></td>
+<td class="epoch">1059237704</td>
+</tr>
+<tr class="odd">
+<td class="day">2003</td>
+<td class="day">05</td>
+<td class="day">14</td>
+<td class="time">02:03:36</td>
+<td class="mag ">3.5</td>
+<td class="latlon">72.3820</td>
+<td class="latlon">125.3647</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1535661">1535661</a></td>
+<td class="epoch">1052877816</td>
+</tr>
+<tr class="even">
+<td class="day">2003</td>
+<td class="day">03</td>
+<td class="day">19</td>
+<td class="time">16:31:36</td>
+<td class="mag ">4.0</td>
+<td class="latlon">75.9793</td>
+<td class="latlon">131.9085</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1494009">1494009</a></td>
+<td class="epoch">1048091496</td>
+</tr>
+<tr class="odd">
+<td class="day">2003</td>
+<td class="day">03</td>
+<td class="day">16</td>
+<td class="time">18:49:44</td>
+<td class="mag ">3.4</td>
+<td class="latlon">72.5143</td>
+<td class="latlon">125.0853</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1489076">1489076</a></td>
+<td class="epoch">1047840584</td>
+</tr>
+<tr class="even">
+<td class="day">2003</td>
+<td class="day">03</td>
+<td class="day">05</td>
+<td class="time">14:01:35</td>
+<td class="mag ">3.7</td>
+<td class="latlon">77.5072</td>
+<td class="latlon">125.3775</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1470697">1470697</a></td>
+<td class="epoch">1046872895</td>
+</tr>
+<tr class="odd">
+<td class="day">2003</td>
+<td class="day">03</td>
+<td class="day">04</td>
+<td class="time">10:45:35</td>
+<td class="mag ">3.9</td>
+<td class="latlon">77.4018</td>
+<td class="latlon">125.3594</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1468833">1468833</a></td>
+<td class="epoch">1046774735</td>
+</tr>
+<tr class="even">
+<td class="day">2002</td>
+<td class="day">09</td>
+<td class="day">27</td>
+<td class="time">02:15:52</td>
+<td class="mag ">4.2</td>
+<td class="latlon">74.9200</td>
+<td class="latlon">133.5250</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1421910">1421910</a></td>
+<td class="epoch">1033092952</td>
+</tr>
+<tr class="odd">
+<td class="day">2002</td>
+<td class="day">06</td>
+<td class="day">10</td>
+<td class="time">23:27:56</td>
+<td class="mag ">3.5</td>
+<td class="latlon">70.1860</td>
+<td class="latlon">140.4220</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1316537">1316537</a></td>
+<td class="epoch">1023751676</td>
+</tr>
+<tr class="even">
+<td class="day">2002</td>
+<td class="day">06</td>
+<td class="day">10</td>
+<td class="time">23:19:19</td>
+<td class="mag ">3.8</td>
+<td class="latlon">70.4570</td>
+<td class="latlon">139.4070</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1316506">1316506</a></td>
+<td class="epoch">1023751159</td>
+</tr>
+<tr class="odd">
+<td class="day">2002</td>
+<td class="day">06</td>
+<td class="day">04</td>
+<td class="time">00:05:07</td>
+<td class="mag ">4.8</td>
+<td class="latlon">75.6300</td>
+<td class="latlon">143.7140</td>
+<td class="mag "> 10.0</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1295862">1295862</a></td>
+<td class="epoch">1023149107</td>
+</tr>
+<tr class="even">
+<td class="day">2001</td>
+<td class="day">12</td>
+<td class="day">17</td>
+<td class="time">14:30:04</td>
+<td class="mag ">3.5</td>
+<td class="latlon">79.5147</td>
+<td class="latlon">114.8199</td>
+<td class="mag ">  0.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1222661">1222661</a></td>
+<td class="epoch">1008599404</td>
+</tr>
+<tr class="odd">
+<td class="day">2001</td>
+<td class="day">11</td>
+<td class="day">15</td>
+<td class="time">19:35:10</td>
+<td class="mag ">4.1</td>
+<td class="latlon">73.8890</td>
+<td class="latlon">114.0890</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1209956">1209956</a></td>
+<td class="epoch">1005852910</td>
+</tr>
+<tr class="even">
+<td class="day">2001</td>
+<td class="day">06</td>
+<td class="day">08</td>
+<td class="time">04:59:02</td>
+<td class="mag ">4.7</td>
+<td class="latlon">72.7020</td>
+<td class="latlon">123.9180</td>
+<td class="mag "> 34.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1070621">1070621</a></td>
+<td class="epoch">991976342</td>
+</tr>
+<tr class="odd">
+<td class="day">2001</td>
+<td class="day">03</td>
+<td class="day">22</td>
+<td class="time">16:16:35</td>
+<td class="mag ">3.5</td>
+<td class="latlon">73.9470</td>
+<td class="latlon">130.9150</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1189363">1189363</a></td>
+<td class="epoch">985277795</td>
+</tr>
+<tr class="even">
+<td class="day">2001</td>
+<td class="day">03</td>
+<td class="day">06</td>
+<td class="time">09:15:57</td>
+<td class="mag ">3.7</td>
+<td class="latlon">75.4930</td>
+<td class="latlon">132.8970</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1070335">1070335</a></td>
+<td class="epoch">983870157</td>
+</tr>
+<tr class="odd">
+<td class="day">2000</td>
+<td class="day">09</td>
+<td class="day">16</td>
+<td class="time">17:45:18</td>
+<td class="mag ">4.6</td>
+<td class="latlon">79.0140</td>
+<td class="latlon">124.4560</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/1014437">1014437</a></td>
+<td class="epoch">969126318</td>
+</tr>
+<tr class="even">
+<td class="day">2000</td>
+<td class="day">07</td>
+<td class="day">10</td>
+<td class="time">04:17:36</td>
+<td class="mag ">4.6</td>
+<td class="latlon">74.3020</td>
+<td class="latlon">146.8650</td>
+<td class="mag "> 10.0</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/918575">918575</a></td>
+<td class="epoch">963202656</td>
+</tr>
+<tr class="odd">
+<td class="day">2000</td>
+<td class="day">04</td>
+<td class="day">30</td>
+<td class="time">17:16:28</td>
+<td class="mag ">4.0</td>
+<td class="latlon">74.0200</td>
+<td class="latlon">113.7370</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/997821">997821</a></td>
+<td class="epoch">957114988</td>
+</tr>
+<tr class="even">
+<td class="day">2000</td>
+<td class="day">04</td>
+<td class="day">18</td>
+<td class="time">04:16:33</td>
+<td class="mag ">3.6</td>
+<td class="latlon">75.7760</td>
+<td class="latlon">131.2550</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/918658">918658</a></td>
+<td class="epoch">956031393</td>
+</tr>
+<tr class="odd">
+<td class="day">2000</td>
+<td class="day">01</td>
+<td class="day">16</td>
+<td class="time">15:22:50</td>
+<td class="mag ">4.5</td>
+<td class="latlon">79.7710</td>
+<td class="latlon">122.7960</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/915348">915348</a></td>
+<td class="epoch">948036170</td>
+</tr>
+<tr class="even">
+<td class="day">2000</td>
+<td class="day">01</td>
+<td class="day">16</td>
+<td class="time">14:56:50</td>
+<td class="mag ">3.3</td>
+<td class="latlon">79.7520</td>
+<td class="latlon">122.4600</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/915234">915234</a></td>
+<td class="epoch">948034610</td>
+</tr>
+<tr class="odd">
+<td class="day">2000</td>
+<td class="day">01</td>
+<td class="day">16</td>
+<td class="time">12:29:12</td>
+<td class="mag ">4.5</td>
+<td class="latlon">79.7370</td>
+<td class="latlon">123.2800</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/914894">914894</a></td>
+<td class="epoch">948025752</td>
+</tr>
+<tr class="even">
+<td class="day">2000</td>
+<td class="day">01</td>
+<td class="day">15</td>
+<td class="time">21:27:25</td>
+<td class="mag ">4.2</td>
+<td class="latlon">79.7410</td>
+<td class="latlon">122.8650</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/912924">912924</a></td>
+<td class="epoch">947971645</td>
+</tr>
+<tr class="odd">
+<td class="day">1999</td>
+<td class="day">12</td>
+<td class="day">02</td>
+<td class="time">20:20:54</td>
+<td class="mag ">4.3</td>
+<td class="latlon">76.0280</td>
+<td class="latlon">133.9060</td>
+<td class="mag "> 16.1</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/782256">782256</a></td>
+<td class="epoch">944166054</td>
+</tr>
+<tr class="even">
+<td class="day">1999</td>
+<td class="day">10</td>
+<td class="day">27</td>
+<td class="time">05:05:08</td>
+<td class="mag ">4.8</td>
+<td class="latlon">79.2320</td>
+<td class="latlon">124.3220</td>
+<td class="mag "> 19.2</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/864292">864292</a></td>
+<td class="epoch">941000708</td>
+</tr>
+<tr class="odd">
+<td class="day">1999</td>
+<td class="day">03</td>
+<td class="day">24</td>
+<td class="time">03:26:34</td>
+<td class="mag ">4.5</td>
+<td class="latlon">75.5320</td>
+<td class="latlon">121.6420</td>
+<td class="mag "> 26.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/743095">743095</a></td>
+<td class="epoch">922245994</td>
+</tr>
+<tr class="even">
+<td class="day">1999</td>
+<td class="day">02</td>
+<td class="day">27</td>
+<td class="time">06:29:59</td>
+<td class="mag ">3.5</td>
+<td class="latlon">71.5860</td>
+<td class="latlon">129.7240</td>
+<td class="mag "> 33.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/747140">747140</a></td>
+<td class="epoch">920096999</td>
+</tr>
+<tr class="odd">
+<td class="day">1998</td>
+<td class="day">12</td>
+<td class="day">26</td>
+<td class="time">20:42:38</td>
+<td class="mag ">3.4</td>
+<td class="latlon">71.8301</td>
+<td class="latlon">128.4331</td>
+<td class="mag "> 33.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/717838">717838</a></td>
+<td class="epoch">914704958</td>
+</tr>
+<tr class="even">
+<td class="day">1998</td>
+<td class="day">10</td>
+<td class="day">23</td>
+<td class="time">12:30:09</td>
+<td class="mag ">4.2</td>
+<td class="latlon">75.7834</td>
+<td class="latlon">134.4228</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/681594">681594</a></td>
+<td class="epoch">909145809</td>
+</tr>
+<tr class="odd">
+<td class="day">1998</td>
+<td class="day">10</td>
+<td class="day">12</td>
+<td class="time">12:43:05</td>
+<td class="mag ">4.0</td>
+<td class="latlon">74.3615</td>
+<td class="latlon">133.4305</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/670770">670770</a></td>
+<td class="epoch">908196185</td>
+</tr>
+<tr class="even">
+<td class="day">1998</td>
+<td class="day">08</td>
+<td class="day">23</td>
+<td class="time">09:59:03</td>
+<td class="mag ">4.5</td>
+<td class="latlon">72.7663</td>
+<td class="latlon">129.7257</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/683029">683029</a></td>
+<td class="epoch">903866343</td>
+</tr>
+<tr class="odd">
+<td class="day">1998</td>
+<td class="day">07</td>
+<td class="day">16</td>
+<td class="time">15:57:40</td>
+<td class="mag ">3.7</td>
+<td class="latlon">74.2246</td>
+<td class="latlon">131.2672</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/674810">674810</a></td>
+<td class="epoch">900604660</td>
+</tr>
+<tr class="even">
+<td class="day">1998</td>
+<td class="day">06</td>
+<td class="day">04</td>
+<td class="time">02:53:27</td>
+<td class="mag ">3.8</td>
+<td class="latlon">75.3823</td>
+<td class="latlon">131.3838</td>
+<td class="mag ">  0.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/661769">661769</a></td>
+<td class="epoch">896928807</td>
+</tr>
+<tr class="odd">
+<td class="day">1998</td>
+<td class="day">02</td>
+<td class="day">18</td>
+<td class="time">18:31:57</td>
+<td class="mag ">3.6</td>
+<td class="latlon">71.6659</td>
+<td class="latlon">130.4308</td>
+<td class="mag "> 10.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/643512">643512</a></td>
+<td class="epoch">887826717</td>
+</tr>
+<tr class="even">
+<td class="day">1997</td>
+<td class="day">04</td>
+<td class="day">19</td>
+<td class="time">18:00:34</td>
+<td class="mag ">3.1</td>
+<td class="latlon">78.7030</td>
+<td class="latlon">123.8790</td>
+<td class="mag "> 30.6</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/585472">585472</a></td>
+<td class="epoch">861472834</td>
+</tr>
+<tr class="odd">
+<td class="day">1997</td>
+<td class="day">04</td>
+<td class="day">19</td>
+<td class="time">15:26:33</td>
+<td class="mag ">5.5</td>
+<td class="latlon">78.4324</td>
+<td class="latlon">125.8178</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/585379">585379</a></td>
+<td class="epoch">861463593</td>
+</tr>
+<tr class="even">
+<td class="day">1997</td>
+<td class="day">04</td>
+<td class="day">16</td>
+<td class="time">08:42:27</td>
+<td class="mag ">4.8</td>
+<td class="latlon">78.4752</td>
+<td class="latlon">125.5981</td>
+<td class="mag ">  9.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/582467">582467</a></td>
+<td class="epoch">861180147</td>
+</tr>
+<tr class="odd">
+<td class="day">1997</td>
+<td class="day">03</td>
+<td class="day">17</td>
+<td class="time">11:20:12</td>
+<td class="mag ">3.9</td>
+<td class="latlon">74.1075</td>
+<td class="latlon">143.1953</td>
+<td class="mag "> 10.0</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/585786">585786</a></td>
+<td class="epoch">858597612</td>
+</tr>
+<tr class="even">
+<td class="day">1997</td>
+<td class="day">03</td>
+<td class="day">14</td>
+<td class="time">21:04:10</td>
+<td class="mag ">3.6</td>
+<td class="latlon">72.9056</td>
+<td class="latlon">117.4103</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/583341">583341</a></td>
+<td class="epoch">858373450</td>
+</tr>
+<tr class="odd">
+<td class="day">1997</td>
+<td class="day">03</td>
+<td class="day">08</td>
+<td class="time">05:05:51</td>
+<td class="mag ">3.5</td>
+<td class="latlon">74.8200</td>
+<td class="latlon">131.7500</td>
+<td class="mag ">  0.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/576176">576176</a></td>
+<td class="epoch">857797551</td>
+</tr>
+<tr class="even">
+<td class="day">1996</td>
+<td class="day">11</td>
+<td class="day">17</td>
+<td class="time">18:29:47</td>
+<td class="mag ">3.9</td>
+<td class="latlon">71.5800</td>
+<td class="latlon">148.5300</td>
+<td class="mag ">  0.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/555283">555283</a></td>
+<td class="epoch">848255387</td>
+</tr>
+<tr class="odd">
+<td class="day">1996</td>
+<td class="day">11</td>
+<td class="day">12</td>
+<td class="time">22:25:40</td>
+<td class="mag ">3.7</td>
+<td class="latlon">75.9106</td>
+<td class="latlon">132.7569</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/550750">550750</a></td>
+<td class="epoch">847837540</td>
+</tr>
+<tr class="even">
+<td class="day">1996</td>
+<td class="day">11</td>
+<td class="day">11</td>
+<td class="time">08:46:56</td>
+<td class="mag ">3.9</td>
+<td class="latlon">75.7491</td>
+<td class="latlon">134.4845</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/549128">549128</a></td>
+<td class="epoch">847702016</td>
+</tr>
+<tr class="odd">
+<td class="day">1996</td>
+<td class="day">10</td>
+<td class="day">23</td>
+<td class="time">20:41:39</td>
+<td class="mag ">3.6</td>
+<td class="latlon">77.1237</td>
+<td class="latlon">125.3983</td>
+<td class="mag "> 30.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/562723">562723</a></td>
+<td class="epoch">846103299</td>
+</tr>
+<tr class="even">
+<td class="day">1996</td>
+<td class="day">09</td>
+<td class="day">26</td>
+<td class="time">19:17:51</td>
+<td class="mag ">3.7</td>
+<td class="latlon">76.0824</td>
+<td class="latlon">134.3966</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/534156">534156</a></td>
+<td class="epoch">843765471</td>
+</tr>
+<tr class="odd">
+<td class="day">1996</td>
+<td class="day">09</td>
+<td class="day">24</td>
+<td class="time">13:26:06</td>
+<td class="mag ">3.6</td>
+<td class="latlon">72.3657</td>
+<td class="latlon">126.1670</td>
+<td class="mag "> 33.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/531754">531754</a></td>
+<td class="epoch">843571566</td>
+</tr>
+<tr class="even">
+<td class="day">1996</td>
+<td class="day">09</td>
+<td class="day">19</td>
+<td class="time">03:17:22</td>
+<td class="mag ">3.5</td>
+<td class="latlon">72.3545</td>
+<td class="latlon">125.9692</td>
+<td class="mag "> 33.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/525197">525197</a></td>
+<td class="epoch">843103042</td>
+</tr>
+<tr class="odd">
+<td class="day">1996</td>
+<td class="day">09</td>
+<td class="day">18</td>
+<td class="time">23:37:28</td>
+<td class="mag ">3.8</td>
+<td class="latlon">72.3755</td>
+<td class="latlon">126.5217</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/525022">525022</a></td>
+<td class="epoch">843089848</td>
+</tr>
+<tr class="even">
+<td class="day">1996</td>
+<td class="day">09</td>
+<td class="day">18</td>
+<td class="time">20:32:19</td>
+<td class="mag ">3.3</td>
+<td class="latlon">72.1412</td>
+<td class="latlon">126.4064</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/524878">524878</a></td>
+<td class="epoch">843078739</td>
+</tr>
+<tr class="odd">
+<td class="day">1996</td>
+<td class="day">09</td>
+<td class="day">15</td>
+<td class="time">00:21:23</td>
+<td class="mag ">4.5</td>
+<td class="latlon">72.3567</td>
+<td class="latlon">126.3810</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/521564">521564</a></td>
+<td class="epoch">842746883</td>
+</tr>
+<tr class="even">
+<td class="day">1996</td>
+<td class="day">09</td>
+<td class="day">14</td>
+<td class="time">23:20:01</td>
+<td class="mag ">3.9</td>
+<td class="latlon">72.2748</td>
+<td class="latlon">126.5188</td>
+<td class="mag "> 33.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/521505">521505</a></td>
+<td class="epoch">842743201</td>
+</tr>
+<tr class="odd">
+<td class="day">1996</td>
+<td class="day">09</td>
+<td class="day">14</td>
+<td class="time">19:29:44</td>
+<td class="mag ">4.1</td>
+<td class="latlon">75.4420</td>
+<td class="latlon">110.3885</td>
+<td class="mag "> 33.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/521376">521376</a></td>
+<td class="epoch">842729384</td>
+</tr>
+<tr class="even">
+<td class="day">1996</td>
+<td class="day">06</td>
+<td class="day">22</td>
+<td class="time">16:47:14</td>
+<td class="mag ">5.8</td>
+<td class="latlon">75.7784</td>
+<td class="latlon">134.6316</td>
+<td class="mag "> 23.1</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/530255">530255</a></td>
+<td class="epoch">835462034</td>
+</tr>
+<tr class="odd">
+<td class="day">1996</td>
+<td class="day">04</td>
+<td class="day">28</td>
+<td class="time">01:40:40</td>
+<td class="mag ">3.2</td>
+<td class="latlon">71.3965</td>
+<td class="latlon">130.9538</td>
+<td class="mag ">  0.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/498527">498527</a></td>
+<td class="epoch">830655640</td>
+</tr>
+<tr class="even">
+<td class="day">1996</td>
+<td class="day">04</td>
+<td class="day">04</td>
+<td class="time">03:53:22</td>
+<td class="mag ">3.6</td>
+<td class="latlon">73.3273</td>
+<td class="latlon">131.8454</td>
+<td class="mag "> 33.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/473295">473295</a></td>
+<td class="epoch">828590002</td>
+</tr>
+<tr class="odd">
+<td class="day">1995</td>
+<td class="day">06</td>
+<td class="day">10</td>
+<td class="time">18:57:59</td>
+<td class="mag ">4.1</td>
+<td class="latlon">74.2254</td>
+<td class="latlon">113.9447</td>
+<td class="mag ">  0.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/423233">423233</a></td>
+<td class="epoch">802810679</td>
+</tr>
+<tr class="even">
+<td class="day">1995</td>
+<td class="day">01</td>
+<td class="day">31</td>
+<td class="time">12:43:43</td>
+<td class="mag ">4.3</td>
+<td class="latlon">72.7064</td>
+<td class="latlon">132.2757</td>
+<td class="mag "> 33.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/412242">412242</a></td>
+<td class="epoch">791556223</td>
+</tr>
+<tr class="odd">
+<td class="day">1995</td>
+<td class="day">01</td>
+<td class="day">16</td>
+<td class="time">19:20:23</td>
+<td class="mag ">4.5</td>
+<td class="latlon">79.2036</td>
+<td class="latlon">123.8620</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/398235">398235</a></td>
+<td class="epoch">790284023</td>
+</tr>
+<tr class="even">
+<td class="day">1994</td>
+<td class="day">09</td>
+<td class="day">23</td>
+<td class="time">02:11:37</td>
+<td class="mag ">4.6</td>
+<td class="latlon">76.3321</td>
+<td class="latlon">145.6741</td>
+<td class="mag "> 10.0</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/400182">400182</a></td>
+<td class="epoch">780286297</td>
+</tr>
+<tr class="odd">
+<td class="day">1994</td>
+<td class="day">03</td>
+<td class="day">31</td>
+<td class="time">22:28:40</td>
+<td class="mag ">4.1</td>
+<td class="latlon">71.8193</td>
+<td class="latlon">128.8741</td>
+<td class="mag "> 33.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/359893">359893</a></td>
+<td class="epoch">765152920</td>
+</tr>
+<tr class="even">
+<td class="day">1993</td>
+<td class="day">10</td>
+<td class="day">05</td>
+<td class="time">21:28:06</td>
+<td class="mag ">5.0</td>
+<td class="latlon">77.7124</td>
+<td class="latlon">126.4114</td>
+<td class="mag "> 34.2</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/314596">314596</a></td>
+<td class="epoch">749856486</td>
+</tr>
+<tr class="odd">
+<td class="day">1993</td>
+<td class="day">05</td>
+<td class="day">17</td>
+<td class="time">13:18:41</td>
+<td class="mag ">4.4</td>
+<td class="latlon">78.0651</td>
+<td class="latlon">126.1947</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/299019">299019</a></td>
+<td class="epoch">737644721</td>
+</tr>
+<tr class="even">
+<td class="day">1993</td>
+<td class="day">05</td>
+<td class="day">04</td>
+<td class="time">20:48:50</td>
+<td class="mag ">4.7</td>
+<td class="latlon">77.2076</td>
+<td class="latlon">131.4932</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/288689">288689</a></td>
+<td class="epoch">736548530</td>
+</tr>
+<tr class="odd">
+<td class="day">1993</td>
+<td class="day">04</td>
+<td class="day">11</td>
+<td class="time">23:22:49</td>
+<td class="mag ">4.8</td>
+<td class="latlon">78.1630</td>
+<td class="latlon">126.2358</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/293188">293188</a></td>
+<td class="epoch">734570569</td>
+</tr>
+<tr class="even">
+<td class="day">1993</td>
+<td class="day">03</td>
+<td class="day">24</td>
+<td class="time">22:43:29</td>
+<td class="mag ">4.8</td>
+<td class="latlon">71.6858</td>
+<td class="latlon">130.4046</td>
+<td class="mag "> 20.3</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/304296">304296</a></td>
+<td class="epoch">733013009</td>
+</tr>
+<tr class="odd">
+<td class="day">1993</td>
+<td class="day">02</td>
+<td class="day">12</td>
+<td class="time">10:52:04</td>
+<td class="mag ">5.0</td>
+<td class="latlon">79.2118</td>
+<td class="latlon">124.5068</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/293600">293600</a></td>
+<td class="epoch">729514324</td>
+</tr>
+<tr class="even">
+<td class="day">1993</td>
+<td class="day">01</td>
+<td class="day">21</td>
+<td class="time">13:43:15</td>
+<td class="mag ">5.1</td>
+<td class="latlon">78.8542</td>
+<td class="latlon">125.5753</td>
+<td class="mag "> 28.6</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/304135">304135</a></td>
+<td class="epoch">727623795</td>
+</tr>
+<tr class="odd">
+<td class="day">1992</td>
+<td class="day">12</td>
+<td class="day">28</td>
+<td class="time">15:52:28</td>
+<td class="mag ">4.0</td>
+<td class="latlon">79.4139</td>
+<td class="latlon">124.8811</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/282096">282096</a></td>
+<td class="epoch">725557948</td>
+</tr>
+<tr class="even">
+<td class="day">1992</td>
+<td class="day">02</td>
+<td class="day">17</td>
+<td class="time">07:51:54</td>
+<td class="mag ">4.4</td>
+<td class="latlon">78.9470</td>
+<td class="latlon">123.8232</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/231801">231801</a></td>
+<td class="epoch">698313114</td>
+</tr>
+<tr class="odd">
+<td class="day">1992</td>
+<td class="day">02</td>
+<td class="day">17</td>
+<td class="time">00:01:56</td>
+<td class="mag ">6.0</td>
+<td class="latlon">79.1748</td>
+<td class="latlon">124.5240</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/231612">231612</a></td>
+<td class="epoch">698284916</td>
+</tr>
+<tr class="even">
+<td class="day">1992</td>
+<td class="day">02</td>
+<td class="day">15</td>
+<td class="time">04:52:05</td>
+<td class="mag ">5.0</td>
+<td class="latlon">75.9461</td>
+<td class="latlon">125.1151</td>
+<td class="mag "> 17.3</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/230563">230563</a></td>
+<td class="epoch">698129525</td>
+</tr>
+<tr class="odd">
+<td class="day">1991</td>
+<td class="day">11</td>
+<td class="day">09</td>
+<td class="time">11:00:48</td>
+<td class="mag ">4.3</td>
+<td class="latlon">78.9664</td>
+<td class="latlon">126.7365</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2834550">2834550</a></td>
+<td class="epoch">689684448</td>
+</tr>
+<tr class="even">
+<td class="day">1991</td>
+<td class="day">03</td>
+<td class="day">29</td>
+<td class="time">11:34:21</td>
+<td class="mag ">4.6</td>
+<td class="latlon">79.7181</td>
+<td class="latlon">124.0752</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2828423">2828423</a></td>
+<td class="epoch">670246461</td>
+</tr>
+<tr class="odd">
+<td class="day">1991</td>
+<td class="day">03</td>
+<td class="day">22</td>
+<td class="time">17:02:19</td>
+<td class="mag ">4.7</td>
+<td class="latlon">79.8225</td>
+<td class="latlon">123.8767</td>
+<td class="mag ">  9.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2828090">2828090</a></td>
+<td class="epoch">669661339</td>
+</tr>
+<tr class="even">
+<td class="day">1991</td>
+<td class="day">03</td>
+<td class="day">01</td>
+<td class="time">01:57:05</td>
+<td class="mag ">5.2</td>
+<td class="latlon">72.1533</td>
+<td class="latlon">126.8463</td>
+<td class="mag "> 39.4</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2827161">2827161</a></td>
+<td class="epoch">667792625</td>
+</tr>
+<tr class="odd">
+<td class="day">1990</td>
+<td class="day">06</td>
+<td class="day">28</td>
+<td class="time">22:03:47</td>
+<td class="mag ">4.4</td>
+<td class="latlon">76.1528</td>
+<td class="latlon">134.0749</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2815824">2815824</a></td>
+<td class="epoch">646610627</td>
+</tr>
+<tr class="even">
+<td class="day">1990</td>
+<td class="day">06</td>
+<td class="day">09</td>
+<td class="time">18:24:34</td>
+<td class="mag ">5.0</td>
+<td class="latlon">75.1197</td>
+<td class="latlon">113.0508</td>
+<td class="mag "> 33.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2814965">2814965</a></td>
+<td class="epoch">644955874</td>
+</tr>
+<tr class="odd">
+<td class="day">1990</td>
+<td class="day">03</td>
+<td class="day">13</td>
+<td class="time">00:32:59</td>
+<td class="mag ">5.5</td>
+<td class="latlon">73.3252</td>
+<td class="latlon">134.8979</td>
+<td class="mag "> 15.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2810836">2810836</a></td>
+<td class="epoch">637288379</td>
+</tr>
+<tr class="even">
+<td class="day">1989</td>
+<td class="day">12</td>
+<td class="day">18</td>
+<td class="time">21:00:43</td>
+<td class="mag ">4.3</td>
+<td class="latlon">74.8634</td>
+<td class="latlon">146.1174</td>
+<td class="mag "> 33.0</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3130009">3130009</a></td>
+<td class="epoch">630018043</td>
+</tr>
+<tr class="odd">
+<td class="day">1989</td>
+<td class="day">10</td>
+<td class="day">02</td>
+<td class="time">10:00:32</td>
+<td class="mag ">4.5</td>
+<td class="latlon">76.4593</td>
+<td class="latlon">133.2291</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3109934">3109934</a></td>
+<td class="epoch">623325632</td>
+</tr>
+<tr class="even">
+<td class="day">1989</td>
+<td class="day">09</td>
+<td class="day">26</td>
+<td class="time">00:18:50</td>
+<td class="mag ">4.5</td>
+<td class="latlon">76.1715</td>
+<td class="latlon">134.4323</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3134304">3134304</a></td>
+<td class="epoch">622772330</td>
+</tr>
+<tr class="odd">
+<td class="day">1989</td>
+<td class="day">08</td>
+<td class="day">17</td>
+<td class="time">02:37:00</td>
+<td class="mag ">3.9</td>
+<td class="latlon">76.5488</td>
+<td class="latlon">134.3565</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3127182">3127182</a></td>
+<td class="epoch">619324620</td>
+</tr>
+<tr class="even">
+<td class="day">1989</td>
+<td class="day">08</td>
+<td class="day">05</td>
+<td class="time">10:49:23</td>
+<td class="mag ">4.6</td>
+<td class="latlon">76.1604</td>
+<td class="latlon">134.3962</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3114195">3114195</a></td>
+<td class="epoch">618317363</td>
+</tr>
+<tr class="odd">
+<td class="day">1989</td>
+<td class="day">08</td>
+<td class="day">05</td>
+<td class="time">06:55:50</td>
+<td class="mag ">5.3</td>
+<td class="latlon">76.1092</td>
+<td class="latlon">134.5357</td>
+<td class="mag ">  2.9</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3113843">3113843</a></td>
+<td class="epoch">618303350</td>
+</tr>
+<tr class="even">
+<td class="day">1988</td>
+<td class="day">04</td>
+<td class="day">05</td>
+<td class="time">18:25:41</td>
+<td class="mag ">4.5</td>
+<td class="latlon">76.7092</td>
+<td class="latlon">129.6357</td>
+<td class="mag "> 33.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3082003">3082003</a></td>
+<td class="epoch">576267941</td>
+</tr>
+<tr class="odd">
+<td class="day">1988</td>
+<td class="day">03</td>
+<td class="day">21</td>
+<td class="time">23:31:25</td>
+<td class="mag ">6.5</td>
+<td class="latlon">77.5908</td>
+<td class="latlon">125.5212</td>
+<td class="mag "> 34.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3097231">3097231</a></td>
+<td class="epoch">574990285</td>
+</tr>
+<tr class="even">
+<td class="day">1988</td>
+<td class="day">01</td>
+<td class="day">01</td>
+<td class="time">14:36:09</td>
+<td class="mag ">5.1</td>
+<td class="latlon">74.6542</td>
+<td class="latlon">130.9034</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3076917">3076917</a></td>
+<td class="epoch">568046169</td>
+</tr>
+<tr class="odd">
+<td class="day">1987</td>
+<td class="day">11</td>
+<td class="day">25</td>
+<td class="time">17:28:01</td>
+<td class="mag ">5.1</td>
+<td class="latlon">73.6733</td>
+<td class="latlon">118.7531</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3070943">3070943</a></td>
+<td class="epoch">564859681</td>
+</tr>
+<tr class="even">
+<td class="day">1987</td>
+<td class="day">10</td>
+<td class="day">08</td>
+<td class="time">06:19:17</td>
+<td class="mag ">4.7</td>
+<td class="latlon">73.7110</td>
+<td class="latlon">118.6295</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3054801">3054801</a></td>
+<td class="epoch">560672357</td>
+</tr>
+<tr class="odd">
+<td class="day">1987</td>
+<td class="day">09</td>
+<td class="day">22</td>
+<td class="time">22:05:17</td>
+<td class="mag ">5.6</td>
+<td class="latlon">76.4128</td>
+<td class="latlon">134.3099</td>
+<td class="mag "> 27.3</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3067168">3067168</a></td>
+<td class="epoch">559346717</td>
+</tr>
+<tr class="even">
+<td class="day">1987</td>
+<td class="day">02</td>
+<td class="day">22</td>
+<td class="time">01:22:29</td>
+<td class="mag ">5.2</td>
+<td class="latlon">78.8525</td>
+<td class="latlon">125.9786</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3067222">3067222</a></td>
+<td class="epoch">540955349</td>
+</tr>
+<tr class="odd">
+<td class="day">1986</td>
+<td class="day">08</td>
+<td class="day">05</td>
+<td class="time">05:20:31</td>
+<td class="mag ">4.7</td>
+<td class="latlon">76.3435</td>
+<td class="latlon">146.5252</td>
+<td class="mag "> 10.0</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3021745">3021745</a></td>
+<td class="epoch">523603231</td>
+</tr>
+<tr class="even">
+<td class="day">1986</td>
+<td class="day">06</td>
+<td class="day">15</td>
+<td class="time">06:55:35</td>
+<td class="mag ">4.7</td>
+<td class="latlon">72.7266</td>
+<td class="latlon">125.2707</td>
+<td class="mag "> 10.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3031667">3031667</a></td>
+<td class="epoch">519202535</td>
+</tr>
+<tr class="odd">
+<td class="day">1986</td>
+<td class="day">05</td>
+<td class="day">19</td>
+<td class="time">13:52:30</td>
+<td class="mag ">4.6</td>
+<td class="latlon">75.5727</td>
+<td class="latlon">111.3496</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/3040651">3040651</a></td>
+<td class="epoch">516894750</td>
+</tr>
+<tr class="even">
+<td class="day">1985</td>
+<td class="day">06</td>
+<td class="day">03</td>
+<td class="time">18:32:52</td>
+<td class="mag ">5.1</td>
+<td class="latlon">78.1534</td>
+<td class="latlon">126.4610</td>
+<td class="mag ">  3.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2992701">2992701</a></td>
+<td class="epoch">486671572</td>
+</tr>
+<tr class="odd">
+<td class="day">1984</td>
+<td class="day">08</td>
+<td class="day">18</td>
+<td class="time">17:36:24</td>
+<td class="mag ">4.5</td>
+<td class="latlon">79.9417</td>
+<td class="latlon">123.3205</td>
+<td class="mag "> 33.6</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2979959">2979959</a></td>
+<td class="epoch">461698584</td>
+</tr>
+<tr class="even">
+<td class="day">1984</td>
+<td class="day">08</td>
+<td class="day">12</td>
+<td class="time">18:34:39</td>
+<td class="mag ">4.6</td>
+<td class="latlon">74.5060</td>
+<td class="latlon">133.9297</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2975425">2975425</a></td>
+<td class="epoch">461183679</td>
+</tr>
+<tr class="odd">
+<td class="day">1984</td>
+<td class="day">08</td>
+<td class="day">12</td>
+<td class="time">15:28:02</td>
+<td class="mag ">5.1</td>
+<td class="latlon">74.1688</td>
+<td class="latlon">135.1079</td>
+<td class="mag ">  2.6</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2975305">2975305</a></td>
+<td class="epoch">461172482</td>
+</tr>
+<tr class="even">
+<td class="day">1984</td>
+<td class="day">07</td>
+<td class="day">31</td>
+<td class="time">18:21:28</td>
+<td class="mag ">4.5</td>
+<td class="latlon">79.9934</td>
+<td class="latlon">122.5264</td>
+<td class="mag "> 10.0</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2987617">2987617</a></td>
+<td class="epoch">460146088</td>
+</tr>
+<tr class="odd">
+<td class="day">1984</td>
+<td class="day">04</td>
+<td class="day">27</td>
+<td class="time">23:55:08</td>
+<td class="mag ">4.6</td>
+<td class="latlon">77.6897</td>
+<td class="latlon">125.8871</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2985322">2985322</a></td>
+<td class="epoch">451958108</td>
+</tr>
+<tr class="even">
+<td class="day">1983</td>
+<td class="day">10</td>
+<td class="day">11</td>
+<td class="time">03:39:09</td>
+<td class="mag ">4.7</td>
+<td class="latlon">75.5130</td>
+<td class="latlon">122.0703</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2946050">2946050</a></td>
+<td class="epoch">434691549</td>
+</tr>
+<tr class="odd">
+<td class="day">1983</td>
+<td class="day">06</td>
+<td class="day">10</td>
+<td class="time">02:13:23</td>
+<td class="mag ">5.6</td>
+<td class="latlon">75.5347</td>
+<td class="latlon">122.7526</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2946373">2946373</a></td>
+<td class="epoch">424059203</td>
+</tr>
+<tr class="even">
+<td class="day">1983</td>
+<td class="day">01</td>
+<td class="day">09</td>
+<td class="time">02:38:20</td>
+<td class="mag ">4.3</td>
+<td class="latlon">74.4476</td>
+<td class="latlon">133.0983</td>
+<td class="mag "> 33.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2945617">2945617</a></td>
+<td class="epoch">410927900</td>
+</tr>
+<tr class="odd">
+<td class="day">1981</td>
+<td class="day">01</td>
+<td class="day">22</td>
+<td class="time">00:26:55</td>
+<td class="mag ">4.5</td>
+<td class="latlon">73.0599</td>
+<td class="latlon">122.5818</td>
+<td class="mag ">  0.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2905966">2905966</a></td>
+<td class="epoch">348971215</td>
+</tr>
+<tr class="even">
+<td class="day">1980</td>
+<td class="day">10</td>
+<td class="day">23</td>
+<td class="time">19:07:44</td>
+<td class="mag ">4.5</td>
+<td class="latlon">77.7962</td>
+<td class="latlon">126.7756</td>
+<td class="mag "> 33.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2898065">2898065</a></td>
+<td class="epoch">341176064</td>
+</tr>
+<tr class="odd">
+<td class="day">1980</td>
+<td class="day">04</td>
+<td class="day">24</td>
+<td class="time">23:32:46</td>
+<td class="mag ">4.4</td>
+<td class="latlon">75.0491</td>
+<td class="latlon">119.9773</td>
+<td class="mag ">  1.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2888676">2888676</a></td>
+<td class="epoch">325467166</td>
+</tr>
+<tr class="even">
+<td class="day">1980</td>
+<td class="day">02</td>
+<td class="day">03</td>
+<td class="time">07:43:16</td>
+<td class="mag ">4.2</td>
+<td class="latlon">73.0035</td>
+<td class="latlon">122.2934</td>
+<td class="mag "> 40.1</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2880880">2880880</a></td>
+<td class="epoch">318411796</td>
+</tr>
+<tr class="odd">
+<td class="day">1980</td>
+<td class="day">02</td>
+<td class="day">01</td>
+<td class="time">17:30:25</td>
+<td class="mag ">5.4</td>
+<td class="latlon">73.0563</td>
+<td class="latlon">122.5917</td>
+<td class="mag "> 10.5</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/2880481">2880481</a></td>
+<td class="epoch">318274225</td>
+</tr>
+<tr class="even">
+<td class="day">1978</td>
+<td class="day">09</td>
+<td class="day">07</td>
+<td class="time">14:00:56.65</td>
+<td class="mag ">4.6</td>
+<td class="latlon">74.1639</td>
+<td class="latlon">146.7678</td>
+<td class="mag "> 10.0</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/195415">195415</a></td>
+<td class="epoch">274024856</td>
+</tr>
+<tr class="odd">
+<td class="day">1977</td>
+<td class="day">04</td>
+<td class="day">23</td>
+<td class="time">14:49:08.92</td>
+<td class="mag ">5.0</td>
+<td class="latlon">75.0713</td>
+<td class="latlon">135.1547</td>
+<td class="mag "> 26.9</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/178390">178390</a></td>
+<td class="epoch">230654948</td>
+</tr>
+<tr class="even">
+<td class="day">1977</td>
+<td class="day">01</td>
+<td class="day">31</td>
+<td class="time">08:35:35.92</td>
+<td class="mag ">4.7</td>
+<td class="latlon">76.7576</td>
+<td class="latlon">131.3222</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/173269">173269</a></td>
+<td class="epoch">223547735</td>
+</tr>
+<tr class="odd">
+<td class="day">1976</td>
+<td class="day">08</td>
+<td class="day">22</td>
+<td class="time">20:02:32</td>
+<td class="mag ">3.8</td>
+<td class="latlon">72.5803</td>
+<td class="latlon">124.6864</td>
+<td class="mag "> 33.1</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/164741">164741</a></td>
+<td class="epoch">209592152</td>
+</tr>
+<tr class="even">
+<td class="day">1976</td>
+<td class="day">07</td>
+<td class="day">24</td>
+<td class="time">18:47:57</td>
+<td class="mag ">4.3</td>
+<td class="latlon">71.1142</td>
+<td class="latlon">136.4976</td>
+<td class="mag "> 33.0</td>
+<td>NEAR N. COAST OF EASTERN SIBERIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/165310">165310</a></td>
+<td class="epoch">207082077</td>
+</tr>
+<tr class="odd">
+<td class="day">1976</td>
+<td class="day">07</td>
+<td class="day">20</td>
+<td class="time">05:32:11.35</td>
+<td class="mag ">4.9</td>
+<td class="latlon">77.9651</td>
+<td class="latlon">126.5468</td>
+<td class="mag "> 19.9</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/164430">164430</a></td>
+<td class="epoch">206688731</td>
+</tr>
+<tr class="even">
+<td class="day">1975</td>
+<td class="day">08</td>
+<td class="day">12</td>
+<td class="time">14:59:59.13</td>
+<td class="mag ">5.1</td>
+<td class="latlon">70.7020</td>
+<td class="latlon">126.9463</td>
+<td class="mag ">  0.0</td>
+<td>NORTHCENTRAL SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/150968">150968</a></td>
+<td class="epoch">177087599</td>
+</tr>
+<tr class="odd">
+<td class="day">1974</td>
+<td class="day">11</td>
+<td class="day">27</td>
+<td class="time">20:38:04.09</td>
+<td class="mag ">4.3</td>
+<td class="latlon">79.2480</td>
+<td class="latlon">124.2488</td>
+<td class="mag "> 25.4</td>
+<td>EAST OF SEVERNAYA ZEMLYA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/141754">141754</a></td>
+<td class="epoch">154816684</td>
+</tr>
+<tr class="even">
+<td class="day">1974</td>
+<td class="day">08</td>
+<td class="day">29</td>
+<td class="time">08:37:19.78</td>
+<td class="mag ">4.8</td>
+<td class="latlon">73.1829</td>
+<td class="latlon">123.1526</td>
+<td class="mag "> 10.0</td>
+<td>NEAR COAST OF C. SIBERIA, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/136918">136918</a></td>
+<td class="epoch">146997439</td>
+</tr>
+<tr class="odd">
+<td class="day">1973</td>
+<td class="day">12</td>
+<td class="day">15</td>
+<td class="time">23:31:43.85</td>
+<td class="mag ">5.0</td>
+<td class="latlon">74.0852</td>
+<td class="latlon">147.0889</td>
+<td class="mag "> 22.8</td>
+<td>NEW SIBERIAN ISLANDS, RUSSIA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/128413">128413</a></td>
+<td class="epoch">124846303</td>
+</tr>
+<tr class="even">
+<td class="day">1972</td>
+<td class="day">10</td>
+<td class="day">07</td>
+<td class="time">01:33:36.41</td>
+<td class="mag ">4.8</td>
+<td class="latlon">73.2549</td>
+<td class="latlon">134.8486</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/46746">46746</a></td>
+<td class="epoch">87269616</td>
+</tr>
+<tr class="odd">
+<td class="day">1970</td>
+<td class="day">04</td>
+<td class="day">17</td>
+<td class="time">09:06:59.88</td>
+<td class="mag ">4.7</td>
+<td class="latlon">75.0645</td>
+<td class="latlon">134.2656</td>
+<td class="mag "> 27.8</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/17604">17604</a></td>
+<td class="epoch">9191219</td>
+</tr>
+<tr class="even">
+<td class="day">1970</td>
+<td class="day">02</td>
+<td class="day">21</td>
+<td class="time">07:05:06.71</td>
+<td class="mag ">4.4</td>
+<td class="latlon">77.3959</td>
+<td class="latlon">124.8722</td>
+<td class="mag "> 10.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/16329">16329</a></td>
+<td class="epoch">4431906</td>
+</tr>
+<tr class="odd">
+<td class="day">1970</td>
+<td class="day">01</td>
+<td class="day">27</td>
+<td class="time">07:25:59</td>
+<td class="mag ">4.2</td>
+<td class="latlon">72.3000</td>
+<td class="latlon">134.4000</td>
+<td class="mag "> 33.0</td>
+<td>LAPTEV SEA</td>
+<td class="evid"><a href="http://ds.iris.edu/ds/nodes/dmc/tools/event/19587">19587</a></td>
+<td class="epoch">2273159</td>
+</tr>
+</tbody>
+</table></body></html>

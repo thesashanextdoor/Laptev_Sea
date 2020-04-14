@@ -9,7 +9,7 @@ I mean the following rectangle.
 
 <img src='images/Laptev_sea_map.jpg' width=400 height=400>
 
-**So, my work is divided into 3 main part.**
+**So, my work is divided into 3 main parts.**
 
 _First_, I need to collect available data of earthquakes which occurred in my region.
 

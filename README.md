@@ -13,6 +13,6 @@ I mean the following rectangle.
 _First_, I need to collect available data of earthquakes which occurred in my region.
 
 _Second_, I should process local wave-form data which I received due to the expedition
-on the russian research vessel ![Keldysh](https://en.wikipedia.org/wiki/Akademik_Mstislav_Keldysh) in Laptev sea.
+on the russian research vessel Keldysh in Laptev sea.
 
 _Third_, I am going to plot maps, graphics and make some scientific conclutions.

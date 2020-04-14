@@ -7,7 +7,8 @@ _What do I mean when I say Laptev sea region?_
 
 I mean the following rectangle.
 
-![](https://github.com/thesashanextdoor/Laptev_Sea/blob/master/Laptev_sea_region.jpg)
+<img src='images/Laptev_sea_map.jpg' width=400 height=400>
+
 **So, my work is divided into 3 main part.**
 
 _First_, I need to collect available data of earthquakes which occurred in my region.

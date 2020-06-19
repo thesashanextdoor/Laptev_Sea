@@ -7,9 +7,13 @@ To unity all events from USGS, ISC and database 'Earthquakes of Russia' and drop
 It's a difficult task to find a reliable criteria for considering two events from different database as duplicates.
 
 We determine local earthquake with certain date, time, latitude, longitude, depth, magnitude, mag type.
+
 ISC contains 358 events from 1909 to 2019 including.
+
 USGS contains 155 events from 1973 to 2019 including.
+
 Database 'Earthquakes of Russia' contains 540 events from 2003 to 2018 including.
+
 Actually, it seems like we have high density of events from 2003 to 2018 and really few events during all other years.
 So, we can unity all data and drop all events that have time difference low than n minutes.
 We vary n minutes and have a look at the amount of duplicates. Finally we find the finest n for us.

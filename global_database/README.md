@@ -1,6 +1,6 @@
 # AIM
 
-To unity all events from USGS, ISC and database 'Earthquakes of Russia' and drop duplicates.
+To unify all events from USGS, ISC and database 'Earthquakes of Russia' and drop duplicates.
 
 # Description
 
@@ -15,10 +15,10 @@ USGS contains 155 events from 1973 to 2019 including.
 Database 'Earthquakes of Russia' contains 540 events from 2003 to 2018 including.
 
 Actually, it seems like we have high density of events from 2003 to 2018 and really few events during all other years.
-So, we can unity all data and drop all events that have time difference low than n minutes.
+So, we can unify all data and drop all events that have time difference low than n minutes.
 We vary n minutes and have a look at the amount of duplicates. Finally we find the finest n for us.
 We can't do the same with coordinates because of uncertainties in measuring coordinates. 
-Actually, we don't have such a great density of events per month to think than two events with small time difference 
+Actually, we don't have such a great density of events per month to think that two events with small time difference 
 and great difference in coordinates that it can be different events.
 
 

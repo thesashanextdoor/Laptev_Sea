@@ -8,6 +8,8 @@ USGS    https://earthquake.usgs.gov/
 
 IRIS    https://www.iris.edu/hq/
 
+Database 'Earthquakes of Russia' http://eqru.gsras.ru/index.php?inc=main
+
 # Description
 
 In this part of my work I would like to try to collect and systematize the whole published information of earthquakes

@@ -1,18 +1,18 @@
 ### Here, you can see contribution(number of events) from different sources in unified_db
 
-<img src='images/contribution_of_sources_unified_db.jpg'>
+<img src='https://github.com/thesashanextdoor/Laptev_Sea/blob/master/images/contribution_of_sources_unified_db.jpg'>
 
 
 ### Now have a look at a map based on the data of unified_db
 
-<img src='images/conic_dist_3dbclass_unified_db.jpg'>
+<img src='https://github.com/thesashanextdoor/Laptev_Sea/blob/master/images/conic_dist_3dbclass_unified_db.jpg'>
 
 ## Fig1. Earthquakes epicenters in Laptev sea region. Different colors represent different database.
 #### red dot = USGS database
 #### blue dot = ISC database
 #### green dot = Earthquakes of Russia database
 
-<img src='images/conic_dist_2magclass_unified_bd.jpg'>
+<img src='https://github.com/thesashanextdoor/Laptev_Sea/blob/master/images/conic_dist_2magclass_unified_bd.jpg'>
 
 ### Fig2. Earthquakes epicenters in Laptev sea region. Different colors represent  different magnitude class.
 #### red dot = magnitude >= 4

@@ -7,7 +7,7 @@ https://www.generic-mapping-tools.org/
 I really recommend you to practice the following tutorial https://docs.generic-mapping-tools.org/6.0/cookbook.html
 You can start with map projections.
 
-Briefly, I can describe the usage of GMT in tre following manner. 
+Briefly, I can describe the usage of GMT in the following manner. 
 
 You download GMT for Windows.  By the way add the path to gmt to Environment Variables.
 Open GMT Command Prompt. Then you can change your working directory. In you current directory create the code of your first map (name_of_file.bat).
